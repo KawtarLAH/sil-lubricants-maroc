@@ -4,63 +4,7 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // 1. Mobile Menu Drawer & Backdrop
-  const mobileToggle = document.getElementById('mobile-toggle');
-  const mainNav = document.getElementById('main-nav');
-
-  if (mobileToggle && mainNav) {
-    // Inject Language Switcher in Mobile Drawer if not present
-    if (!mainNav.querySelector('.mobile-drawer-lang-box')) {
-      const langBox = document.createElement('div');
-      langBox.className = 'mobile-drawer-lang-box';
-      const curLang = window.i18n ? window.i18n.currentLang : 'fr';
-      langBox.innerHTML = `
-        <button class="mobile-lang-btn ${curLang === 'fr' ? 'active' : ''}" onclick="window.i18n && window.i18n.setLanguage('fr')">FR (Français)</button>
-        <button class="mobile-lang-btn ${curLang === 'en' ? 'active' : ''}" onclick="window.i18n && window.i18n.setLanguage('en')">EN (English)</button>
-        <button class="mobile-lang-btn ${curLang === 'ar' ? 'active' : ''}" onclick="window.i18n && window.i18n.setLanguage('ar')">AR (العربية)</button>
-      `;
-      mainNav.appendChild(langBox);
-
-      window.addEventListener('languageChanged', (e) => {
-        const lang = e.detail?.lang || 'fr';
-        langBox.querySelectorAll('.mobile-lang-btn').forEach(btn => {
-          btn.classList.toggle('active', btn.textContent.toLowerCase().includes(lang));
-        });
-      });
-    }
-
-    mobileToggle.addEventListener('click', () => {
-      mainNav.classList.toggle('active');
-      mobileToggle.classList.toggle('active');
-      const isExpanded = mainNav.classList.contains('active');
-      mobileToggle.setAttribute('aria-expanded', isExpanded);
-      document.body.style.overflow = isExpanded ? 'hidden' : '';
-    });
-
-    // Close menu when clicking nav links on mobile
-    mainNav.querySelectorAll('.nav-link').forEach(link => {
-      link.addEventListener('click', () => {
-        if (window.innerWidth <= 768) {
-          mainNav.classList.remove('active');
-          mobileToggle.classList.remove('active');
-          document.body.style.overflow = '';
-        }
-      });
-    });
-
-    // Close menu when clicking outside on mobile
-    document.addEventListener('click', (e) => {
-      if (window.innerWidth <= 768 && mainNav.classList.contains('active')) {
-        if (!mainNav.contains(e.target) && !mobileToggle.contains(e.target)) {
-          mainNav.classList.remove('active');
-          mobileToggle.classList.remove('active');
-          document.body.style.overflow = '';
-        }
-      }
-    });
-  }
-
-  // 2. Mobile App Bottom Navigation Bar
+  // 1. Mobile App Bottom Navigation Bar
   renderMobileBottomNav();
 
   // 3. Sticky Header Scroll Effect
