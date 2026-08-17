@@ -1,0 +1,12 @@
+services:
+  sil-lubricants-maroc:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sil-lubricants-maroc:latest
+    container_name: sil-lubricants-maroc-app
+    ports:
+      - "8090:80"
+    restart: unless-stopped
+    environment:
+      - NGINX_PORT=80
