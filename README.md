@@ -1,6 +1,21 @@
-# SIL Lubricants Maroc - Site Web Officiel & Catalogue
+# 🇲🇦 SIL Lubricants Maroc - Site Web Officiel & Catalogue
 
-Site web officiel pour l'antenne et distributeur exclusif de **SIL Lubricants au Maroc**, répliquant l'ensemble des produits, fiches techniques, catalogues et actualités de [sil-lubricants.com](https://www.sil-lubricants.com/fr/) avec support multilingue intégral (**Français**, **English**, **العربية** avec support RTL).
+> **Site en Production (En Ligne) :** [https://kawtarlah.github.io/sil-lubricants-maroc/](https://kawtarlah.github.io/sil-lubricants-maroc/)  
+> **Dépôt GitHub :** [https://github.com/KawtarLAH/sil-lubricants-maroc](https://github.com/KawtarLAH/sil-lubricants-maroc)
+
+Site web officiel et vitrine catalogue pour **SIL Lubricants Maroc**, distributeur officiel des huiles moteur, transmissions, fluides industriels et gamme motocare espagnole au Maroc.
+
+---
+
+## 🌟 Fonctionnalités Clés
+
+- 🌍 **Multilingue Intégral** : Français (FR), Anglais (EN), Arabe (AR) avec inversion dynamique RTL / LTR et typographie Google Fonts (`Oswald`, `Inter`, `Cairo`).
+- 🔍 **Assistant Intelligent (*Oil Finder*)** : Guidage interactif pour trouver l'huile idéale selon le type de véhicule, la motorisation et le climat marocain.
+- 📋 **Panier de Devis Groupé (*Quote Drawer*)** : Sélection multi-produits avec conditionnements (1L, 5L, 20L, Fût 208L, Cuve 1000L) et export WhatsApp en 1 clic.
+- ⚖️ **Comparateur Technique** : Comparaison côte à côte des normes constructeurs (API, ACEA, MB, VW, BMW, Porsche).
+- ⚙️ **Configuration Centralisée** : Coordonnées, téléphones, adresses, identifiants légaux (RC, ICE, IF, Patente) modifiables dans `data/contact_morocco.json`.
+- 🐳 **Déploiement Docker & Nginx** : Image Docker prête pour la production avec compression Gzip et headers de sécurité.
+- 🚀 **Déploiement CI/CD GitHub Actions** : Mise en production automatique à chaque commit sur la branche `main`.
 
 ---
 
