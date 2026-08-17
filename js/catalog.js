@@ -181,6 +181,7 @@ class CatalogEngine {
 
       const btnDetailsText = window.i18n ? window.i18n.getText('catalog_page.view_details') : 'Fiche Technique';
       const btnQuoteText = window.i18n ? window.i18n.getText('catalog_page.order_quote') : 'Commander';
+      const isCompared = window.comparator && window.comparator.comparedIds.includes(p.id);
 
       return `
         <div class="product-card" data-product-id="${p.id}">
@@ -199,9 +200,16 @@ class CatalogEngine {
             <button class="btn btn-secondary btn-sm btn-open-modal" onclick="window.catalog.openModal('${p.id}')">
               ${btnDetailsText}
             </button>
-            <button class="btn btn-primary btn-sm btn-product-quote" onclick="window.catalog.quoteProduct('${p.id}')">
-              ${btnQuoteText}
+            <button class="btn btn-primary btn-sm btn-product-quote" onclick="window.quoteDrawer ? window.quoteDrawer.addItem('${p.id}') : window.catalog.quoteProduct('${p.id}')">
+              + Devis
             </button>
+          </div>
+          <div style="margin-top: 0.6rem; display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; border-top: 1px solid var(--border-light); padding-top: 0.5rem;">
+            <label style="display:inline-flex; align-items:center; gap:4px; cursor:pointer; color:var(--text-muted);">
+              <input type="checkbox" ${isCompared ? 'checked' : ''} onchange="window.comparator.toggle('${p.id}')">
+              <span>Comparer</span>
+            </label>
+            <a href="javascript:void(0)" onclick="window.catalog.whatsappProduct('${p.id}')" style="color:var(--accent-green); font-weight:600;">WhatsApp &rarr;</a>
           </div>
         </div>
       `;

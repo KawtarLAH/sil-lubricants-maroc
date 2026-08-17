@@ -149,6 +149,73 @@
     </div>
   </section>
 
+  <!-- OIL FINDER SMART ASSISTANT WIZARD -->
+  <section class="section" style="padding: 4rem 0 2rem 0;">
+    <div class="container">
+      <div class="oil-finder-box" id="oil-finder-widget">
+        <div class="section-header" style="margin-bottom: 2rem; text-align: left;">
+          <span class="section-badge" data-i18n="oil_finder.badge">Assistant Intelligent</span>
+          <h2 class="section-title" style="font-size: 2.2rem;" data-i18n="oil_finder.title">Trouvez le Lubrifiant Idéal pour Votre Véhicule</h2>
+          <p class="section-desc" data-i18n="oil_finder.subtitle">Sélectionnez votre type de véhicule et vos spécifications pour obtenir instantanément la recommandation SIL adaptée.</p>
+        </div>
+
+        <div class="oil-finder-grid">
+          <div class="finder-controls">
+            <div class="finder-form-grid">
+              <div class="finder-field">
+                <label class="finder-label" for="finder-vehicle-type" data-i18n="oil_finder.step1_title">1. Type de Véhicule</label>
+                <select id="finder-vehicle-type" class="finder-select">
+                  <option value="car" data-i18n="oil_finder.type_car">Voiture Particulière</option>
+                  <option value="suv" data-i18n="oil_finder.type_suv">Utilitaire / SUV / 4x4</option>
+                  <option value="truck" data-i18n="oil_finder.type_truck">Poids Lourd / Transport</option>
+                  <option value="agri" data-i18n="oil_finder.type_agri">Tracteur / Agricole</option>
+                  <option value="tp" data-i18n="oil_finder.type_tp">Engin TP / Hydraulique</option>
+                  <option value="moto4t" data-i18n="oil_finder.type_moto4t">Moto 4 Temps</option>
+                  <option value="moto2t" data-i18n="oil_finder.type_moto2t">Moto 2 Temps / Kart</option>
+                </select>
+              </div>
+
+              <div class="finder-field">
+                <label class="finder-label" for="finder-engine-type" data-i18n="oil_finder.step2_title">2. Motorisation & Usage</label>
+                <select id="finder-engine-type" class="finder-select">
+                  <option value="gasoline" data-i18n="oil_finder.engine_gasoline">Essence Récent / Turbo</option>
+                  <option value="diesel_dpf" data-i18n="oil_finder.engine_diesel_dpf">Diesel avec FAP (DPF)</option>
+                  <option value="diesel_std" data-i18n="oil_finder.engine_diesel_std">Diesel Standard / Turbo</option>
+                  <option value="hot_climate" data-i18n="oil_finder.engine_hot_climate">Haute Température (Maroc)</option>
+                  <option value="racing" data-i18n="oil_finder.engine_racing">Compétition & Extrême</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="finder-field" style="margin-bottom: 1.5rem;">
+              <label class="finder-label" for="finder-viscosity" data-i18n="oil_finder.step3_title">3. Viscosité Préférée</label>
+              <select id="finder-viscosity" class="finder-select">
+                <option value="all">Automatique (Recommandation SIL)</option>
+                <option value="0W20">0W20 (Hybride & Essence Récent)</option>
+                <option value="0W30">0W30 (Économie Carburant)</option>
+                <option value="5W30">5W30 (Standard Européen FAP C2/C3/C4)</option>
+                <option value="5W40">5W40 (Polyvalent Haute Protection)</option>
+                <option value="10W40">10W40 (Semi-Synthèse / Turbo Diesel / Moto)</option>
+                <option value="10W50">10W50 (Racing & Climat Chaud)</option>
+                <option value="15W40">15W40 (Poids Lourds & Agricole)</option>
+                <option value="20W50">20W50 (Fort Kilométrage / Températures Extrêmes)</option>
+              </select>
+            </div>
+
+            <div style="display:flex; gap:1rem;">
+              <button id="oil-finder-submit" class="btn btn-primary" data-i18n="oil_finder.btn_find">Trouver mon huile</button>
+              <button id="oil-finder-reset" class="btn btn-secondary" data-i18n="oil_finder.btn_reset">Réinitialiser</button>
+            </div>
+          </div>
+
+          <div id="oil-finder-results">
+            <!-- Injected by oil-finder.js -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- PRODUCT UNIVERSES SECTION -->
   <section class="section">
     <div class="container">
@@ -348,6 +415,49 @@
     </div>
   </section>
 
+  <!-- LOGISTICS & MOROCCO DISTRIBUTION NETWORK -->
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-badge" data-i18n="logistics.badge">Logistique Nationale</span>
+        <h2 class="section-title" data-i18n="logistics.title">Réseau de Distribution & Délais au Maroc</h2>
+        <p class="section-desc" data-i18n="logistics.desc">
+          Grâce à notre plateforme centrale à Casablanca et nos dépôts régionaux, nous garantissons un approvisionnement continu partout au Maroc.
+        </p>
+      </div>
+
+      <div class="hubs-grid">
+        <div class="hub-card">
+          <span class="hub-timing-badge" data-i18n="logistics.time_24h">Livraison Express 24h</span>
+          <h3 class="hub-title" data-i18n="logistics.hub_casa">Casablanca & Région</h3>
+          <p class="hub-cities">Grand Casablanca, Mohammédia, Berrechid, Settat, El Jadida.</p>
+        </div>
+
+        <div class="hub-card">
+          <span class="hub-timing-badge" data-i18n="logistics.time_24_48h">Livraison 24h - 48h</span>
+          <h3 class="hub-title" data-i18n="logistics.hub_north">Nord & Littoral</h3>
+          <p class="hub-cities">Tanger, Tétouan, Larache, Kénitra, Salé, Rabat.</p>
+        </div>
+
+        <div class="hub-card">
+          <span class="hub-timing-badge" data-i18n="logistics.time_48h">Livraison 48h</span>
+          <h3 class="hub-title" data-i18n="logistics.hub_center">Centre & Oriental</h3>
+          <p class="hub-cities">Fès, Meknès, Taza, Oujda, Nador, Berkane.</p>
+        </div>
+
+        <div class="hub-card">
+          <span class="hub-timing-badge" data-i18n="logistics.time_48h">Livraison 48h</span>
+          <h3 class="hub-title" data-i18n="logistics.hub_south">Sud & Souss</h3>
+          <p class="hub-cities">Marrakech, Safi, Agadir, Taroudant, Laâyoune.</p>
+        </div>
+      </div>
+
+      <div style="margin-top: 2rem; text-align: center; color: var(--accent-green); font-weight: 600; font-size: 0.95rem;">
+        <span data-i18n="logistics.stock_feature">Stock permanent en bidons, cartons, fûts 208L et cuves 1000L.</span>
+      </div>
+    </div>
+  </section>
+
   <!-- MOTORSPORT NEWS SECTION -->
   <section class="section">
     <div class="container">
@@ -362,8 +472,60 @@
     </div>
   </section>
 
+  <!-- FAQ SECTION -->
+  <section class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-badge" data-i18n="faq.badge">Questions Fréquentes</span>
+        <h2 class="section-title" data-i18n="faq.title">Tout Savoir sur les Lubrifiants SIL au Maroc</h2>
+      </div>
+
+      <div class="faq-list">
+        <div class="faq-item active">
+          <div class="faq-question">
+            <span data-i18n="faq.q1">Quelle huile SIL est recommandée pour le climat chaud au Maroc ?</span>
+            <svg class="faq-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </div>
+          <div class="faq-answer" data-i18n="faq.a1">
+            Pour les températures estivales élevées au Maroc, nos huiles synthétiques à haut indice de viscosité (ex: SIL POWER ULTRA 5W40, 10W50 ou SIL POWER MAX 15W40 pour poids lourds) conservent un film d'huile ultra-résistant sans rupture thermique, protégeant ainsi le moteur contre l'usure prématurée.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span data-i18n="faq.q2">Les huiles SIL sont-elles compatibles avec les filtres à particules (FAP / DPF) ?</span>
+            <svg class="faq-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </div>
+          <div class="faq-answer" data-i18n="faq.a2">
+            Oui, absolument. Notre gamme SIL POWER ULTRA et SUPER bénéficie des technologies Low/Mid-SAPS conformes aux normes ACEA C2, C3 et C5 ainsi qu'aux homologations constructeurs MB 229.51/229.52, VW 504/507 et BMW Longlife-04 pour préserver la durée de vie des FAP et catalyseurs.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span data-i18n="faq.q3">Quels conditionnements sont proposés pour les ateliers et flottes ?</span>
+            <svg class="faq-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </div>
+          <div class="faq-answer" data-i18n="faq.a3">
+            Nous fournissons une gamme complète adaptée aux besoins professionnels : bidons de 1L, 4L, 5L, bidons d'atelier de 20L, fûts de 208L et cuves IBC de 1000L, avec livraison directe sur site.
+          </div>
+        </div>
+
+        <div class="faq-item">
+          <div class="faq-question">
+            <span data-i18n="faq.q4">Comment devenir revendeur ou garage partenaire SIL au Maroc ?</span>
+            <svg class="faq-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"></polyline></svg>
+          </div>
+          <div class="faq-answer" data-i18n="faq.a4">
+            Contactez notre service commercial via le formulaire de devis ou directement sur WhatsApp. Nous proposons des conditions tarifaires distributeur attractives, du matériel d'atelier (présentoirs, bannières, combinaisons) et une formation technique pour vos équipes.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- CONTACT & MOROCCO DISTRIBUTOR SECTION -->
-  <section class="section section-alt" id="contact-maroc">
+  <section class="section" id="contact-maroc">
     <div class="container">
       <div class="section-header">
         <span class="section-badge" data-i18n="contact_section.badge">Antenne & Distribution Maroc</span>
@@ -573,6 +735,9 @@
   <!-- Scripts -->
   <script src="js/i18n.js"></script>
   <script src="js/contact-loader.js"></script>
+  <script src="js/oil-finder.js"></script>
+  <script src="js/quote-drawer.js"></script>
+  <script src="js/comparator.js"></script>
   <script src="js/whatsapp-widget.js"></script>
   <script src="js/app.js"></script>
 </body>

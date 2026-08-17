@@ -573,5 +573,350 @@
       "en": "Privacy Policy",
       "ar": "سياسة الخصوصية"
     }
+  },
+  "oil_finder": {
+    "badge": {
+      "fr": "Assistant Intelligent",
+      "en": "Smart Assistant",
+      "ar": "المساعد الذكي"
+    },
+    "title": {
+      "fr": "Trouvez le Lubrifiant Idéal pour Votre Véhicule",
+      "en": "Find the Ideal Lubricant for Your Vehicle",
+      "ar": "ابحث عن الزيت المثالي لمركبتك"
+    },
+    "subtitle": {
+      "fr": "Sélectionnez votre type de véhicule et vos spécifications pour obtenir instantanément la recommandation SIL adaptée.",
+      "en": "Select your vehicle type and specifications to get the exact matching SIL recommendation.",
+      "ar": "حدد نوع مركبتك ومواصفات المحرك للحصول فوراً على زيت SIL الموصى به."
+    },
+    "step1_title": {
+      "fr": "1. Type de Véhicule",
+      "en": "1. Vehicle Type",
+      "ar": "1. نوع المركبة"
+    },
+    "step2_title": {
+      "fr": "2. Motorisation & Usage",
+      "en": "2. Engine & Application",
+      "ar": "2. نوع المحرك والاستخدام"
+    },
+    "step3_title": {
+      "fr": "3. Viscosité / Norme",
+      "en": "3. Viscosity / Spec",
+      "ar": "3. اللزوجة / المعيار"
+    },
+    "type_car": {
+      "fr": "Voiture Particulière",
+      "en": "Passenger Car",
+      "ar": "سيارة سياحية"
+    },
+    "type_suv": {
+      "fr": "Utilitaire / SUV / 4x4",
+      "en": "Van / SUV / 4x4",
+      "ar": "سيارة نفعية / رباعية الدفع"
+    },
+    "type_truck": {
+      "fr": "Poids Lourd / Transport",
+      "en": "Heavy Duty Truck / Fleet",
+      "ar": "شاحنة ثقيلة / أسطول نقل"
+    },
+    "type_agri": {
+      "fr": "Tracteur / Agricole",
+      "en": "Agricultural Tractor",
+      "ar": "جرار / آلة فلاحية"
+    },
+    "type_tp": {
+      "fr": "Engin TP / Hydraulique",
+      "en": "Construction / Hydraulic",
+      "ar": "معدات أشغال / هيدروليك"
+    },
+    "type_moto4t": {
+      "fr": "Moto 4 Temps",
+      "en": "4-Stroke Motorcycle",
+      "ar": "دراجة نارية 4 أشواط"
+    },
+    "type_moto2t": {
+      "fr": "Moto 2 Temps / Kart",
+      "en": "2-Stroke Bike / Kart",
+      "ar": "دراجة 2 شوط / كارتينج"
+    },
+    "engine_gasoline": {
+      "fr": "Essence Récent / Turbo",
+      "en": "Modern Gasoline / Turbo",
+      "ar": "بنزين حديث / تيربو"
+    },
+    "engine_diesel_dpf": {
+      "fr": "Diesel avec FAP (DPF)",
+      "en": "Diesel with DPF (FAP)",
+      "ar": "ديزل مزود بفلتر جسيمات (FAP)"
+    },
+    "engine_diesel_std": {
+      "fr": "Diesel Standard / Turbo",
+      "en": "Standard Diesel / Turbo",
+      "ar": "ديزل عادي / تيربو"
+    },
+    "engine_heavy_euro6": {
+      "fr": "Poids Lourd Euro V / VI",
+      "en": "Heavy Duty Euro 5/6",
+      "ar": "شاحنة يورو 5 / 6"
+    },
+    "engine_racing": {
+      "fr": "Compétition & Extrême",
+      "en": "Racing & Extreme",
+      "ar": "سباقات واستخدام شاق"
+    },
+    "engine_hot_climate": {
+      "fr": "Haute Température (Maroc)",
+      "en": "High Ambient Heat (Morocco)",
+      "ar": "أجواء شديدة الحرارة (المغرب)"
+    },
+    "btn_find": {
+      "fr": "Trouver mon huile",
+      "en": "Find My Oil",
+      "ar": "ابحث عن الزيت"
+    },
+    "btn_reset": {
+      "fr": "Réinitialiser",
+      "en": "Reset",
+      "ar": "إعادة التعيين"
+    },
+    "result_title": {
+      "fr": "Notre Recommandation SIL",
+      "en": "Our SIL Recommendation",
+      "ar": "توصيتنا من زيوت SIL"
+    },
+    "add_to_quote": {
+      "fr": "Ajouter au Devis",
+      "en": "Add to Quote",
+      "ar": "إضافة إلى طلب العرض"
+    },
+    "direct_order": {
+      "fr": "Commander sur WhatsApp",
+      "en": "Order on WhatsApp",
+      "ar": "طلب مباشر عبر واتساب"
+    }
+  },
+  "quote_drawer": {
+    "title": {
+      "fr": "Votre Demande de Devis",
+      "en": "Your Quote Request",
+      "ar": "طلب عرض الأسعار الخاص بكم"
+    },
+    "empty": {
+      "fr": "Votre liste de devis est vide.",
+      "en": "Your quote list is empty.",
+      "ar": "قائمة طلب الأسعار فارغة حالياً."
+    },
+    "empty_sub": {
+      "fr": "Parcourez notre catalogue et cliquez sur 'Ajouter au Devis' pour composer votre demande.",
+      "en": "Browse our catalog and click 'Add to Quote' to build your request.",
+      "ar": "تصفح كتالوج المنتجات واضغط على 'إضافة للطلب' لتجميع احتياجاتكم."
+    },
+    "items_count": {
+      "fr": "produit(s) sélectionné(s)",
+      "en": "item(s) selected",
+      "ar": "منتج(ات) مختار(ة)"
+    },
+    "packaging_label": {
+      "fr": "Conditionnement :",
+      "en": "Packaging:",
+      "ar": "التعبئة:"
+    },
+    "qty_label": {
+      "fr": "Quantité :",
+      "en": "Quantity:",
+      "ar": "الكمية:"
+    },
+    "btn_whatsapp": {
+      "fr": "Envoyer sur WhatsApp Maroc",
+      "en": "Send via Morocco WhatsApp",
+      "ar": "إرسال عبر واتساب المغرب"
+    },
+    "btn_email": {
+      "fr": "Finaliser par Email",
+      "en": "Submit via Email Form",
+      "ar": "إرسال عبر نموذج البريد"
+    },
+    "btn_clear": {
+      "fr": "Vider la liste",
+      "en": "Clear List",
+      "ar": "تفريغ القائمة"
+    },
+    "open_drawer": {
+      "fr": "Devis",
+      "en": "Quote",
+      "ar": "الطلب"
+    },
+    "item_added": {
+      "fr": "Produit ajouté à votre demande de devis !",
+      "en": "Product added to your quote request!",
+      "ar": "تمت إضافة المنتج إلى قائمة طلبك بنجاح!"
+    }
+  },
+  "comparator": {
+    "title": {
+      "fr": "Comparateur Technique de Lubrifiants",
+      "en": "Technical Lubricant Comparator",
+      "ar": "مقارن المواصفات التقنية للزيوت"
+    },
+    "subtitle": {
+      "fr": "Comparez les viscosités, homologations constructeurs et applications côte à côte.",
+      "en": "Compare viscosities, OEM approvals and applications side by side.",
+      "ar": "قارن درجات اللزوجة واعتمادات المصنعين والاستخدامات جنباً إلى جنب."
+    },
+    "empty": {
+      "fr": "Sélectionnez au moins 2 produits pour les comparer.",
+      "en": "Select at least 2 products to compare.",
+      "ar": "اختر منتجين على الأقل لإجراء المقارنة."
+    },
+    "btn_compare": {
+      "fr": "Comparer",
+      "en": "Compare",
+      "ar": "مقارنة"
+    },
+    "btn_add_compare": {
+      "fr": "Comparer",
+      "en": "Compare",
+      "ar": "قارن"
+    },
+    "remove": {
+      "fr": "Retirer",
+      "en": "Remove",
+      "ar": "حذف"
+    },
+    "col_viscosity": {
+      "fr": "Viscosité SAE",
+      "en": "SAE Viscosity",
+      "ar": "درجة اللزوجة SAE"
+    },
+    "col_category": {
+      "fr": "Gamme / Segment",
+      "en": "Range / Segment",
+      "ar": "الفئة / المجال"
+    },
+    "col_specs": {
+      "fr": "Homologations & Normes",
+      "en": "OEM Approvals & Specs",
+      "ar": "الاعتمادات والمعايير"
+    },
+    "col_packaging": {
+      "fr": "Formats Disponibles",
+      "en": "Available Formats",
+      "ar": "الأحجام المتوفرة"
+    },
+    "col_applications": {
+      "fr": "Applications Cibles",
+      "en": "Target Applications",
+      "ar": "مجالات الاستخدام"
+    }
+  },
+  "logistics": {
+    "badge": {
+      "fr": "Logistique Nationale",
+      "en": "National Logistics",
+      "ar": "اللوجستيك الوطني"
+    },
+    "title": {
+      "fr": "Réseau de Distribution & Délais au Maroc",
+      "en": "Distribution Network & Delivery across Morocco",
+      "ar": "شبكة التوزيع ومواعيد التسليم بالمغرب"
+    },
+    "desc": {
+      "fr": "Grâce à notre plateforme centrale à Casablanca et nos dépôts régionaux, nous garantissons un approvisionnement continu partout au Maroc.",
+      "en": "Through our central logistics hub in Casablanca and regional facilities, we ensure continuous supply across Morocco.",
+      "ar": "بفضل مركزنا اللوجستي الرئيسي بالدار البيضاء ومستودعاتنا، نضمن تزويداً سريعاً ومستمراً لجميع مناطق المغرب."
+    },
+    "hub_casa": {
+      "fr": "Casablanca & Région",
+      "en": "Casablanca & Region",
+      "ar": "الدار البيضاء والنواحي"
+    },
+    "time_24h": {
+      "fr": "Livraison Express 24h",
+      "en": "Express 24h Delivery",
+      "ar": "توصيل سريع خلال 24 ساعة"
+    },
+    "hub_north": {
+      "fr": "Tanger, Tétouan, Kénitra, Rabat",
+      "en": "Tangier, Tetouan, Kenitra, Rabat",
+      "ar": "طنجة، تطوان، القنيطرة، الرباط"
+    },
+    "time_24_48h": {
+      "fr": "Livraison 24h - 48h",
+      "en": "Delivery 24h - 48h",
+      "ar": "توصيل خلال 24 - 48 ساعة"
+    },
+    "hub_center": {
+      "fr": "Fès, Meknès, Oujda & Oriental",
+      "en": "Fes, Meknes, Oujda & East",
+      "ar": "فاس، مكناس، وجدة والشرق"
+    },
+    "hub_south": {
+      "fr": "Marrakech, Agadir, Souss & Sud",
+      "en": "Marrakech, Agadir, Souss & South",
+      "ar": "مراكش، أكادير، سوس والجنوب"
+    },
+    "time_48h": {
+      "fr": "Livraison 48h",
+      "en": "Delivery 48h",
+      "ar": "توصيل خلال 48 ساعة"
+    },
+    "stock_feature": {
+      "fr": "Stock permanent en bidons, cartons, fûts 208L et cuves 1000L.",
+      "en": "Permanent stock in bottles, cartons, 208L drums and 1000L IBCs.",
+      "ar": "مخزون دائم في عبوات، كراتين، براميل 208 لتر وخزانات 1000 لتر."
+    }
+  },
+  "faq": {
+    "badge": {
+      "fr": "Questions Fréquentes",
+      "en": "Frequently Asked Questions",
+      "ar": "الأسئلة الشائعة"
+    },
+    "title": {
+      "fr": "Tout Savoir sur les Lubrifiants SIL au Maroc",
+      "en": "Everything About SIL Lubricants in Morocco",
+      "ar": "كل ما تحتاج معرفته عن زيوت SIL في المغرب"
+    },
+    "q1": {
+      "fr": "Quelle huile SIL est recommandée pour le climat chaud au Maroc ?",
+      "en": "Which SIL oil is recommended for hot weather in Morocco?",
+      "ar": "ما هو زيت SIL الموصى به للمناخ الحار في المغرب؟"
+    },
+    "a1": {
+      "fr": "Pour les températures estivales élevées au Maroc, nos huiles synthétiques à haut indice de viscosité (ex: SIL POWER ULTRA 5W40, 10W50 ou SIL POWER MAX 15W40 pour poids lourds) conservent un film d'huile ultra-résistant sans rupture thermique, protégeant ainsi le moteur contre l'usure prématurée.",
+      "en": "For high summer temperatures in Morocco, our high viscosity index synthetic oils (e.g. SIL POWER ULTRA 5W40, 10W50 or SIL POWER MAX 15W40 for trucks) maintain an ultra-strong lubricating film without thermal breakdown, protecting engines from premature wear.",
+      "ar": "لمواجهة درجات الحرارة المرتفعة في الصيف بالمغرب، تحافظ زيوتنا الاصطناعية ذات مؤشر اللزوجة العالي (مثل SIL POWER ULTRA 5W40 أو 10W50 أو 15W40 للشاحنات) على طبقة تزييت فائقة القوة دون أي انهيار حراري، مما يضمن حماية المحرك من التآكل المبكر."
+    },
+    "q2": {
+      "fr": "Les huiles SIL sont-elles compatibles avec les filtres à particules (FAP / DPF) ?",
+      "en": "Are SIL oils compatible with Diesel Particulate Filters (DPF / FAP)?",
+      "ar": "هل زيوت SIL متوافقة مع فلاتر جسيمات الديزل (FAP / DPF)؟"
+    },
+    "a2": {
+      "fr": "Oui, absolument. Notre gamme SIL POWER ULTRA et SUPER bénéficie des technologies Low/Mid-SAPS conformes aux normes ACEA C2, C3 et C5 ainsi qu'aux homologations constructeurs MB 229.51/229.52, VW 504/507 et BMW Longlife-04 pour préserver la durée de vie des FAP et catalyseurs.",
+      "en": "Yes, absolutely. Our SIL POWER ULTRA and SUPER ranges feature Low/Mid-SAPS technology complying with ACEA C2, C3 and C5 as well as OEM approvals MB 229.51/229.52, VW 504/507, and BMW Longlife-04 to maximize DPF and catalytic converter lifespan.",
+      "ar": "نعم بكل تأكيد. تعتمد مجموعة SIL POWER ULTRA وSUPER على تقنية Low/Mid-SAPS المتوافقة مع معايير ACEA C2 وC3 وC5 واعتمادات مرسيدس وفولكس فاجن وبي إم دبليو للحفاظ على سلامة فلاتر الجسيمات والمحولات الحفازة."
+    },
+    "q3": {
+      "fr": "Quels conditionnements sont proposés pour les ateliers et flottes ?",
+      "en": "What packaging sizes are offered for workshops and fleets?",
+      "ar": "ما هي أحجام التعبئة المتوفرة للورشات وأساطيل النقل؟"
+    },
+    "a3": {
+      "fr": "Nous fournissons une gamme complète adaptée aux besoins professionnels : bidons de 1L, 4L, 5L, bidons d'atelier de 20L, fûts de 208L et cuves IBC de 1000L, avec livraison directe sur site.",
+      "en": "We provide a complete range suited for professional needs: 1L, 4L, 5L bottles, 20L workshop pails, 208L drums, and 1000L IBC tanks with direct on-site delivery.",
+      "ar": "نوفر تشكيلة متكاملة تناسب الاحتياجات المهنية: عبوات 1 لتر و4 لتر و5 لتر، عبوات الورشات 20 لتر، براميل 208 لتر وخزانات 1000 لتر مع التوصيل المباشر إلى مقراتكم."
+    },
+    "q4": {
+      "fr": "Comment devenir revendeur ou garage partenaire SIL au Maroc ?",
+      "en": "How to become an authorized SIL dealer or partner garage in Morocco?",
+      "ar": "كيف تصبح موزعاً معتمداً أو ورشة شريكة لـ SIL في المغرب؟"
+    },
+    "a4": {
+      "fr": "Contactez notre service commercial via le formulaire de devis ou directement sur WhatsApp. Nous proposons des conditions tarifaires distributeur attractives, du matériel d'atelier (présentoirs, bannières, combinaisons) et une formation technique pour vos équipes.",
+      "en": "Contact our sales department via the quote form or directly on WhatsApp. We provide attractive distributor pricing, workshop promotional gear (stands, banners, overalls) and technical training for your staff.",
+      "ar": "تواصلوا مع قسمنا التجاري عبر نموذج طلب الأسعار أو مباشرة عبر واتساب. نوفر أسعار توزيع تفضيلية، مستلزمات دعاية للورشات (أرفف عرض، لافتات، بدلات عمل) وتدريباً تقنياً لفرقكم."
+    }
   }
 }
