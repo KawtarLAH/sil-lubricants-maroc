@@ -188,25 +188,63 @@ ul {
   border: 1px solid var(--border-light);
 }
 
-.lang-btn {
+.lang-switcher,
+.lang-switcher-flags {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(255, 255, 255, 0.05);
+  padding: 3px 6px;
+  border-radius: 9999px;
+  border: 1px solid var(--border-light);
+}
+
+.flag-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
   background: transparent;
-  border: none;
-  color: var(--text-muted);
+  border: 1px solid transparent;
+  color: var(--text-secondary);
   font-size: 0.75rem;
   font-weight: 700;
-  padding: 2px 6px;
-  border-radius: 2px;
+  padding: 3px 6px;
+  border-radius: 9999px;
   cursor: pointer;
   transition: all var(--transition-fast);
+  line-height: 1;
 }
 
-.lang-btn:hover {
-  color: var(--text-primary);
+.flag-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
 }
 
-.lang-btn.active {
-  background-color: var(--accent-green);
+.flag-btn.active {
+  background: var(--accent-green);
   color: #000;
+  border-color: var(--accent-green);
+  box-shadow: 0 0 10px rgba(104, 189, 43, 0.35);
+}
+
+.flag-icon {
+  width: 20px;
+  height: 14px;
+  border-radius: 2px;
+  object-fit: cover;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  display: block;
+}
+
+.flag-code {
+  font-family: var(--font-heading);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+[dir="rtl"] .flag-code {
+  font-family: var(--font-arabic);
 }
 
 /* ==========================================================================
@@ -216,8 +254,8 @@ ul {
   position: sticky;
   top: 0;
   background-color: rgba(15, 18, 23, 0.95);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border-light);
   height: var(--header-height);
   display: flex;
@@ -236,6 +274,64 @@ ul {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+}
+
+/* Header Right Actions (Flags + Quote + Hamburger) */
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* Animated Hamburger Button */
+.mobile-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  gap: 5px;
+  padding: 0;
+  transition: all var(--transition-fast);
+}
+
+.mobile-toggle:active {
+  transform: scale(0.92);
+}
+
+.hamburger-line {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: #ffffff;
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.25s ease, background-color 0.25s ease;
+}
+
+.mobile-toggle.active {
+  background: rgba(104, 189, 43, 0.15);
+  border-color: var(--accent-green);
+}
+
+.mobile-toggle.active .hamburger-line {
+  background-color: var(--accent-green);
+}
+
+.mobile-toggle.active .line-1 {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.mobile-toggle.active .line-2 {
+  opacity: 0;
+}
+
+.mobile-toggle.active .line-3 {
+  transform: translateY(-7px) rotate(-45deg);
 }
 
 /* Brand Logo */

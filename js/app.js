@@ -31,8 +31,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     mobileToggle.addEventListener('click', () => {
       mainNav.classList.toggle('active');
+      mobileToggle.classList.toggle('active');
       const isExpanded = mainNav.classList.contains('active');
       mobileToggle.setAttribute('aria-expanded', isExpanded);
+      document.body.style.overflow = isExpanded ? 'hidden' : '';
     });
 
     // Close menu when clicking nav links on mobile
@@ -40,8 +42,21 @@ document.addEventListener('DOMContentLoaded', () => {
       link.addEventListener('click', () => {
         if (window.innerWidth <= 768) {
           mainNav.classList.remove('active');
+          mobileToggle.classList.remove('active');
+          document.body.style.overflow = '';
         }
       });
+    });
+
+    // Close menu when clicking outside on mobile
+    document.addEventListener('click', (e) => {
+      if (window.innerWidth <= 768 && mainNav.classList.contains('active')) {
+        if (!mainNav.contains(e.target) && !mobileToggle.contains(e.target)) {
+          mainNav.classList.remove('active');
+          mobileToggle.classList.remove('active');
+          document.body.style.overflow = '';
+        }
+      }
     });
   }
 
