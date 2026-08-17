@@ -1,25 +1,19 @@
 /**
- * SIL LUBRICANTS MAROC - MAIN APPLICATION LOGIC (MOBILE-FIRST)
- * Navigation, mobile app bottom bar, header scrolling, form validation & toast notifications
+ * SIL LUBRICANTS MAROC - ADVANCED NAVIGATION & APPLICATION LOGIC
+ * Scroll progress bar, mobile app bottom bar, back to top, form validation & toast notifications
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  // 1. Mobile App Bottom Navigation Bar
+  // 1. Scroll Progress Bar & Sticky Header
+  initScrollProgressAndHeader();
+
+  // 2. Mobile App Bottom Navigation Bar
   renderMobileBottomNav();
 
-  // 2. Sticky Header Scroll Effect
-  const header = document.querySelector('.site-header');
-  if (header) {
-    window.addEventListener('scroll', () => {
-      if (window.scrollY > 20) {
-        header.classList.add('scrolled');
-      } else {
-        header.classList.remove('scrolled');
-      }
-    });
-  }
+  // 3. Floating Back to Top Button
+  initBackToTop();
 
-  // 3. Contact & Quote Form Handler
+  // 4. Contact & Quote Form Handler
   const contactForm = document.getElementById('morocco-contact-form');
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
@@ -49,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 4. FAQ Accordion Toggle
+  // 5. FAQ Accordion Toggle
   document.querySelectorAll('.faq-question').forEach(q => {
     q.addEventListener('click', () => {
       const item = q.closest('.faq-item');
@@ -62,6 +56,66 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 });
+
+/**
+ * Top Scroll Progress Indicator & Header Scrolled state
+ */
+function initScrollProgressAndHeader() {
+  let progress = document.getElementById('scroll-progress-bar');
+  if (!progress) {
+    progress = document.createElement('div');
+    progress.id = 'scroll-progress-bar';
+    progress.className = 'scroll-progress-bar';
+    document.body.prepend(progress);
+  }
+
+  const header = document.querySelector('.site-header');
+
+  window.addEventListener('scroll', () => {
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    const docHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrollPercent = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+
+    if (progress) {
+      progress.style.width = scrollPercent + '%';
+    }
+
+    if (header) {
+      if (scrollTop > 20) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    }
+  });
+}
+
+/**
+ * Floating Back-to-Top Button
+ */
+function initBackToTop() {
+  if (document.getElementById('back-to-top-btn')) return;
+
+  const btn = document.createElement('button');
+  btn.id = 'back-to-top-btn';
+  btn.className = 'back-to-top-btn';
+  btn.setAttribute('aria-label', 'Retour en haut');
+  btn.innerHTML = `<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"></polyline></svg>`;
+
+  btn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+
+  document.body.appendChild(btn);
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      btn.classList.add('visible');
+    } else {
+      btn.classList.remove('visible');
+    }
+  });
+}
 
 /**
  * Mobile Bottom Navigation Dock (Native Mobile App Feel)
@@ -92,6 +146,10 @@ function renderMobileBottomNav() {
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="5" cy="17" r="3"></circle><circle cx="19" cy="17" r="3"></circle><path d="M12 17h4l-3-7H9l-2 4"></path><path d="M9 10l3-5h4"></path></svg>
       <span data-i18n="nav.2_wheels">2 Roues</span>
     </a>
+    <a href="javascript:void(0)" class="mobile-nav-item" onclick="navigateToOilFinder()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      <span>Huile</span>
+    </a>
     <button class="mobile-nav-item" onclick="window.quoteDrawer ? window.quoteDrawer.open() : null" id="mobile-nav-quote-btn">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
       <span class="mobile-nav-badge" id="mobile-quote-badge" style="display:none;">0</span>
@@ -119,6 +177,15 @@ function renderMobileBottomNav() {
   syncBadge();
   window.addEventListener('storage', syncBadge);
   setInterval(syncBadge, 1000);
+}
+
+function navigateToOilFinder() {
+  const widget = document.getElementById('oil-finder-widget');
+  if (widget) {
+    widget.scrollIntoView({ behavior: 'smooth' });
+  } else {
+    window.location.href = 'index.html#oil-finder-widget';
+  }
 }
 
 function openWhatsAppMorocco() {
