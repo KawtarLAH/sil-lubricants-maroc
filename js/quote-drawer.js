@@ -112,7 +112,15 @@ class QuoteDrawerEngine {
     this.save();
     this.updateUI();
 
-    const addedMsg = window.i18n ? window.i18n.getText('quote_drawer.item_added') : 'Produit ajouté à votre devis !';
+    // Micro-animation on badges
+    const badges = document.querySelectorAll('#quote-count-badge, #mobile-quote-badge');
+    badges.forEach(b => {
+      b.classList.remove('bump');
+      void b.offsetWidth; // Trigger reflow
+      b.classList.add('bump');
+    });
+
+    const addedMsg = window.i18n ? window.i18n.getText('quote_drawer.item_added') : 'Produit ajouté à votre demande de devis !';
     if (typeof showToast === 'function') {
       showToast(addedMsg);
     }

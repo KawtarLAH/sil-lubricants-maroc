@@ -2218,8 +2218,99 @@ textarea.form-control {
   padding-top: 1rem;
   border-top: 1px solid var(--border-light);
 }
-  border-color: var(--accent-green);
-  box-shadow: 0 0 15px var(--accent-green-glow);
-  transform: translateY(-3px);
+
+/* ==========================================================================
+   ADVANCED UX POLISH & MICRO-INTERACTIONS
+   ========================================================================== */
+
+/* Badge Bounce Animation */
+@keyframes badgePop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.4); }
+  100% { transform: scale(1); }
 }
+
+.quote-badge-count.bump,
+.mobile-nav-badge.bump {
+  animation: badgePop 0.35s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Tactile Active Press on Clickable Elements */
+.btn:active,
+.pill-btn:active,
+.quick-jump-chip:active,
+.flag-btn:active,
+.search-tag-btn:active,
+.mobile-nav-item:active,
+.search-trigger-btn:active,
+.quote-drawer-close:active,
+.search-modal-close:active {
+  transform: scale(0.94) !important;
+}
+
+/* Smooth Modal Slide Up Entrance */
+@keyframes modalEntrance {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.modal-overlay.active .modal-card,
+.search-modal-backdrop.active .search-modal-container {
+  animation: modalEntrance 0.28s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Toast Notifications UX */
+.toast-box {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: #141822;
+  color: #fff;
+  border: 1px solid var(--accent-green);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.7), 0 0 20px rgba(104, 189, 43, 0.25);
+  padding: 0.9rem 1.4rem;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  font-weight: 500;
+  font-size: 0.95rem;
+  z-index: 9999;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: none;
+}
+
+[dir="rtl"] .toast-box {
+  right: auto;
+  left: 2rem;
+}
+
+.toast-box.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.toast-box svg {
+  color: var(--accent-green);
+  flex-shrink: 0;
+}
+
+/* Accessibility: Visible Focus Outlines */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid var(--accent-green);
+  outline-offset: 2px;
+}
+
 
