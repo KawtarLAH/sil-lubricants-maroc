@@ -1,13 +1,13 @@
 /**
  * SIL LUBRICANTS MAROC - MAIN APPLICATION LOGIC (MOBILE-FIRST)
- * Navigation, mobile app bottom bar, header scrolling, news loader, form validation & toast notifications
+ * Navigation, mobile app bottom bar, header scrolling, form validation & toast notifications
  */
 
 document.addEventListener('DOMContentLoaded', () => {
   // 1. Mobile App Bottom Navigation Bar
   renderMobileBottomNav();
 
-  // 3. Sticky Header Scroll Effect
+  // 2. Sticky Header Scroll Effect
   const header = document.querySelector('.site-header');
   if (header) {
     window.addEventListener('scroll', () => {
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 4. Contact & Quote Form Handler
+  // 3. Contact & Quote Form Handler
   const contactForm = document.getElementById('morocco-contact-form');
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
@@ -49,10 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // 5. News Loader
-  loadNewsCards();
-
-  // 6. FAQ Accordion Toggle
+  // 4. FAQ Accordion Toggle
   document.querySelectorAll('.faq-question').forEach(q => {
     q.addEventListener('click', () => {
       const item = q.closest('.faq-item');
@@ -132,52 +129,6 @@ function openWhatsAppMorocco() {
   if (lang === 'en') defaultMsg = "Hello SIL Lubricants Morocco, I would like to inquire about your products and distributor pricing.";
   if (lang === 'ar') defaultMsg = "مرحبا زيوت SIL المغرب، أود الاستفسار عن منتجاتكم والأسعار المتاحة بالمغرب.";
   window.open(`https://wa.me/${waNum}?text=${encodeURIComponent(defaultMsg)}`, '_blank');
-}
-
-async function loadNewsCards() {
-  const newsGrid = document.getElementById('news-cards-grid');
-  if (!newsGrid) return;
-
-  try {
-    const res = await fetch('data/news.json');
-    if (!res.ok) return;
-    const newsItems = await res.json();
-
-    const renderNews = () => {
-      const lang = window.i18n ? window.i18n.currentLang : 'fr';
-      const readMoreText = window.i18n ? window.i18n.getText('news_section.read_more') : 'En savoir plus';
-
-      newsGrid.innerHTML = newsItems.map(item => {
-        const title = item[`title_${lang}`] || item.title_fr;
-        const excerpt = item[`excerpt_${lang}`] || item.excerpt_fr;
-        const cat = item[`category_${lang}`] || item.category_fr;
-
-        return `
-          <div class="news-card">
-            <div class="news-img-wrap">
-              <img src="${item.image}" alt="${title}" class="news-img" loading="lazy" onerror="this.src='https://www.sil-lubricants.com/wp-content/uploads/2026/07/ssdt-sil-lubricants.jpg'">
-              <span class="news-category-tag">${cat}</span>
-            </div>
-            <div class="news-body">
-              <div class="news-date">${item.date}</div>
-              <h3 class="news-title">${title}</h3>
-              <p class="news-excerpt">${excerpt}</p>
-              <div style="margin-top: auto;">
-                <a href="actualites.html#${item.id}" class="btn btn-secondary btn-sm" style="width: fit-content;">
-                  ${readMoreText} &rarr;
-                </a>
-              </div>
-            </div>
-          </div>
-        `;
-      }).join('');
-    };
-
-    renderNews();
-    window.addEventListener('languageChanged', renderNews);
-  } catch (err) {
-    console.error('Failed to load news items:', err);
-  }
 }
 
 // Toast notification helper
