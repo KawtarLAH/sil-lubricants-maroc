@@ -1,0 +1,69 @@
+/* ==========================================================================
+   SIL LUBRICANTS MAROC - RTL (RIGHT-TO-LEFT) STYLES FOR ARABIC
+   ========================================================================== */
+
+[dir="rtl"] {
+  text-align: right;
+  direction: rtl;
+}
+
+[dir="rtl"] .topbar-left,
+[dir="rtl"] .topbar-right {
+  flex-direction: row;
+}
+
+[dir="rtl"] .main-nav {
+  flex-direction: row;
+}
+
+[dir="rtl"] .header-actions {
+  flex-direction: row;
+}
+
+[dir="rtl"] .spec-line svg {
+  transform: rotate(180deg);
+}
+
+[dir="rtl"] .category-card::before {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .stat-item:not(:last-child)::after {
+  right: auto;
+  left: 0;
+}
+
+[dir="rtl"] .footer-links a:hover {
+  transform: translateX(-5px);
+}
+
+[dir="rtl"] .footer-col h4::after {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .modal-close-btn {
+  right: auto;
+  left: 1.25rem;
+}
+
+[dir="rtl"] .search-input {
+  padding-left: 1rem;
+  padding-right: 3rem;
+}
+
+[dir="rtl"] .search-input-wrap svg {
+  left: auto;
+  right: 1rem;
+}
+
+[dir="rtl"] .news-category-tag {
+  left: auto;
+  right: 1rem;
+}
+
+[dir="rtl"] .badge-viscosity {
+  direction: ltr;
+  display: inline-block;
+}

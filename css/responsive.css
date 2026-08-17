@@ -1,0 +1,158 @@
+/* ==========================================================================
+   SIL LUBRICANTS MAROC - RESPONSIVE STYLES
+   ========================================================================== */
+
+@media (max-width: 1024px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    text-align: center;
+  }
+  
+  .hero-description {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .hero-buttons {
+    justify-content: center;
+  }
+  
+  .hero-visual {
+    order: -1;
+  }
+  
+  .categories-grid, .news-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+  }
+  
+  .stat-item:nth-child(2)::after {
+    display: none;
+  }
+  
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2.5rem;
+  }
+  
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 768px) {
+  .topbar {
+    display: none;
+  }
+  
+  .mobile-toggle {
+    display: flex;
+  }
+  
+  .main-nav {
+    position: fixed;
+    top: var(--header-height);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #0f1217;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 2rem;
+    gap: 1rem;
+    border-top: 1px solid var(--border-light);
+    transform: translateX(100%);
+    transition: transform var(--transition-normal);
+    z-index: 99;
+    overflow-y: auto;
+  }
+  
+  [dir="rtl"] .main-nav {
+    transform: translateX(-100%);
+  }
+  
+  .main-nav.active {
+    transform: translateX(0);
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    padding: 0.85rem 1rem;
+    border-bottom: 1px solid var(--border-light);
+  }
+  
+  .header-actions {
+    display: none;
+  }
+  
+  .hero-title {
+    font-size: 2.25rem;
+  }
+  
+  .section-title {
+    font-size: 2rem;
+  }
+  
+  .categories-grid, .news-grid, .catalogs-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .search-bar-row {
+    grid-template-columns: 1fr;
+  }
+  
+  .form-grid-2 {
+    grid-template-columns: 1fr;
+  }
+  
+  .modal-grid {
+    grid-template-columns: 1fr;
+    padding: 1.5rem;
+  }
+  
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .footer-bottom {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+  
+  .floating-whatsapp .whatsapp-label {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .hero-buttons .btn {
+    width: 100%;
+  }
+  
+  .product-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stats-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stat-item::after {
+    display: none !important;
+  }
+  
+  .contact-form-box, .morocco-info-card {
+    padding: 1.5rem;
+  }
+}

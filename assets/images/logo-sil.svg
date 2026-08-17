@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="silGreenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#76d332" />
+      <stop offset="100%" stop-color="#55a820" />
+    </linearGradient>
+    <linearGradient id="silRedGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff3b30" />
+      <stop offset="100%" stop-color="#c41818" />
+    </linearGradient>
+  </defs>
+  
+  <!-- SIL Stylized Wordmark -->
+  <g transform="skewX(-12)">
+    <!-- S -->
+    <path d="M 40 30 L 110 30 L 110 52 L 68 52 C 65 52 64 54 64 58 C 64 62 66 64 72 64 L 98 64 C 112 64 118 72 118 86 C 118 100 110 110 92 110 L 22 110 L 22 88 L 70 88 C 74 88 76 86 76 82 C 76 78 74 76 68 76 L 42 76 C 28 76 22 68 22 54 C 22 40 30 30 40 30 Z" fill="#ffffff" />
+    
+    <!-- I -->
+    <path d="M 132 30 L 168 30 L 168 110 L 132 110 Z" fill="#ffffff" />
+    
+    <!-- L -->
+    <path d="M 182 30 L 218 30 L 218 86 L 258 86 L 258 110 L 182 110 Z" fill="#ffffff" />
+    
+    <!-- Speed Slash Accent in Racing Green -->
+    <polygon points="268,30 288,30 252,110 232,110" fill="url(#silGreenGrad)" />
+  </g>
+  
+  <!-- Subtitle LUBRICANTS -->
+  <text x="25" y="132" font-family="'Oswald', sans-serif" font-size="20" font-weight="700" letter-spacing="8" fill="url(#silGreenGrad)">
+    LUBRICANTS
+  </text>
+  
+  <!-- MOROCCO DISTRIBUTOR BADGE -->
+  <g transform="translate(300, 30)">
+    <rect x="0" y="0" width="130" height="26" rx="4" fill="#1e2532" stroke="#68bd2b" stroke-width="1.5" />
+    <text x="65" y="17" font-family="'Oswald', sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#68bd2b" text-anchor="middle">MAROC / MOROCCO</text>
+  </g>
+</svg>

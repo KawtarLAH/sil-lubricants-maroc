@@ -1,0 +1,69 @@
+{
+  "company_name": "SIL Lubricants Maroc",
+  "distributor_legal_name": "SIL LUBRICANTS DISTRIBUTION MAROC SARL",
+  "tagline_fr": "Distributeur Officiel & Exclusif des Lubrifiants SIL au Maroc",
+  "tagline_en": "Official & Exclusive Distributor of SIL Lubricants in Morocco",
+  "tagline_ar": "الموزع الرسمي والحصري لزيوت وتشحيمات SIL في المغرب",
+  "phones": {
+    "primary": "+212 5 22 00 00 00",
+    "mobile": "+212 6 61 00 00 00",
+    "commercial": "+212 6 62 00 00 00",
+    "display": "+212 522 00 00 00 / +212 661 00 00 00"
+  },
+  "whatsapp": {
+    "number": "212661000000",
+    "formatted": "+212 6 61 00 00 00",
+    "default_message_fr": "Bonjour SIL Lubricants Maroc, je souhaite commander ou demander des informations sur vos produits.",
+    "default_message_en": "Hello SIL Lubricants Morocco, I would like to order or request information about your products.",
+    "default_message_ar": "السلام عليكم SIL Lubricants Maroc، أود الاستفسار أو طلب معلومات حول منتجاتكم."
+  },
+  "emails": {
+    "general": "contact@sil-lubricants.ma",
+    "sales": "commercial@sil-lubricants.ma",
+    "technical": "technique@sil-lubricants.ma",
+    "display": "contact@sil-lubricants.ma"
+  },
+  "addresses": {
+    "headquarters": {
+      "city_fr": "Casablanca",
+      "city_en": "Casablanca",
+      "city_ar": "الدار البيضاء",
+      "street_fr": "Zone Industrielle Sidi Bernoussi, Bd Hassan II, Casablanca, Maroc",
+      "street_en": "Sidi Bernoussi Industrial Area, Hassan II Blvd, Casablanca, Morocco",
+      "street_ar": "المنطقة الصناعية سيدي البرنوصي، شارع الحسن الثاني، الدار البيضاء، المغرب",
+      "postal_code": "20600",
+      "country_fr": "Maroc",
+      "country_en": "Morocco",
+      "country_ar": "المغرب"
+    },
+    "warehouse": {
+      "city_fr": "Casablanca & Tanger",
+      "city_en": "Casablanca & Tangier",
+      "city_ar": "الدار البيضاء وطنجة",
+      "street_fr": "Plateforme Logistique Centrale - Livraison partout au Maroc",
+      "street_en": "Central Logistics Hub - Nationwide Delivery in Morocco",
+      "street_ar": "مركز لوجستي رئيسي - توصيل لجميع مدن المغرب"
+    }
+  },
+  "business_hours": {
+    "days_fr": "Du Lundi au Vendredi : 08h30 - 18h00 | Samedi : 08h30 - 13h00",
+    "days_en": "Monday to Friday: 08:30 AM - 06:00 PM | Saturday: 08:30 AM - 01:00 PM",
+    "days_ar": "من الإثنين إلى الجمعة: 08:30 - 18:00 | السبت: 08:30 - 13:00"
+  },
+  "social_networks": {
+    "instagram": "https://www.instagram.com/sillubricants/",
+    "facebook": "https://www.facebook.com/sillubricantsmaroc",
+    "linkedin": "https://www.linkedin.com/company/dilube-s-a/",
+    "youtube": "https://www.youtube.com/@sillubricants"
+  },
+  "moroccan_legal_info": {
+    "rc": "RC 584920 Casablanca",
+    "ice": "003294821000045",
+    "if": "49382019",
+    "patente": "38291045",
+    "cnss": "8930214"
+  },
+  "google_maps": {
+    "embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106377.10842095697!2d-7.669866299999999!3d33.5731104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!5e0!3m2!1sfr!2sma!4v1700000000000!5m2!1sfr!2sma"
+  }
+}

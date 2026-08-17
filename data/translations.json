@@ -1,0 +1,577 @@
+{
+  "nav": {
+    "home": {
+      "fr": "Accueil",
+      "en": "Home",
+      "ar": "الرئيسية"
+    },
+    "products": {
+      "fr": "Produits",
+      "en": "Products",
+      "ar": "المنتجات"
+    },
+    "4_wheels": {
+      "fr": "4 Roues",
+      "en": "4-Wheeled",
+      "ar": "4 عجلات"
+    },
+    "2_wheels": {
+      "fr": "2 Roues",
+      "en": "2-Wheeled",
+      "ar": "عجلتان"
+    },
+    "catalogues": {
+      "fr": "Catalogues",
+      "en": "Catalogs",
+      "ar": "الكتالوجات"
+    },
+    "company": {
+      "fr": "Entreprise",
+      "en": "Company",
+      "ar": "عن الشركة"
+    },
+    "news": {
+      "fr": "Actualités",
+      "en": "News",
+      "ar": "الأخبار"
+    },
+    "contact": {
+      "fr": "Contact Maroc",
+      "en": "Morocco Contact",
+      "ar": "اتصل بنا بالمغرب"
+    },
+    "distributor_badge": {
+      "fr": "Distributeur Officiel Maroc",
+      "en": "Official Morocco Distributor",
+      "ar": "الموزع الرسمي بالمغرب"
+    }
+  },
+  "hero": {
+    "experience": {
+      "fr": "+75 ans à lubrifier",
+      "en": "+75 Years Lubricating",
+      "ar": "+75 عاماً من الخبرة في تزييت"
+    },
+    "title_main": {
+      "fr": "VOTRE MOTEUR AVEC MAXIMALES",
+      "en": "YOUR ENGINE WITH MAXIMUM",
+      "ar": "محركك بأقصى درجات"
+    },
+    "title_sub": {
+      "fr": "Puissance et performances",
+      "en": "Power & Performance",
+      "ar": "القوة والأداء العالي"
+    },
+    "desc": {
+      "fr": "Distributeur officiel exclusif de la marque espagnole SIL Lubricants au Maroc. Gamme complète de lubrifiants synthétiques, huiles industrielles, graisses et fluides techniques certifiés API, ACEA et JASO.",
+      "en": "Official exclusive distributor of Spanish premium brand SIL Lubricants in Morocco. Full range of synthetic lubricants, industrial oils, greases, and technical fluids certified API, ACEA, and JASO.",
+      "ar": "الموزع الرسمي والحصري للعلامة الإسبانية الرائدة SIL Lubricants في المغرب. تشكيلة متكاملة من الزيوت الاصطناعية، الزيوت الصناعية، الشحوم وسوائل الصيانة المعتمدة دولياً بمعايير API وACEA وJASO."
+    },
+    "btn_catalogs": {
+      "fr": "Télécharger les Catalogues",
+      "en": "Download Catalogs",
+      "ar": "تحميل الكتالوجات"
+    },
+    "btn_contact": {
+      "fr": "Demander un Devis Maroc",
+      "en": "Request Morocco Quote",
+      "ar": "طلب عرض أسعار بالمغرب"
+    },
+    "btn_discover": {
+      "fr": "Explorer la Gamme",
+      "en": "Explore Products",
+      "ar": "استكشف المنتجات"
+    }
+  },
+  "stats": {
+    "years": {
+      "fr": "+75 Ans",
+      "en": "+75 Years",
+      "ar": "+75 عاماً"
+    },
+    "years_sub": {
+      "fr": "D'expérience & R&D interne",
+      "en": "Experience & In-house R&D",
+      "ar": "من الخبرة والبحث والتطوير"
+    },
+    "certifications": {
+      "fr": "API · ACEA · JASO",
+      "en": "API · ACEA · JASO",
+      "ar": "API · ACEA · JASO"
+    },
+    "certifications_sub": {
+      "fr": "Homologations constructeurs OEM",
+      "en": "OEM Manufacturer Approvals",
+      "ar": "اعتمادات كبرى الشركات المصنعة"
+    },
+    "products_count": {
+      "fr": "100+ Produits",
+      "en": "100+ Products",
+      "ar": "+100 منتج"
+    },
+    "products_sub": {
+      "fr": "Auto, Poids Lourds, Moto & Industrie",
+      "en": "Auto, Heavy Duty, Moto & Industry",
+      "ar": "سيارات، شاحنات، دراجات وصناعة"
+    },
+    "coverage": {
+      "fr": "Livraison Maroc",
+      "en": "Morocco Coverage",
+      "ar": "توصيل لكافة المغرب"
+    },
+    "coverage_sub": {
+      "fr": "Stock permanent & support technique",
+      "en": "Permanent Stock & Technical Support",
+      "ar": "مخزون دائم ودعم فني متخصص"
+    }
+  },
+  "categories_section": {
+    "badge": {
+      "fr": "Nos Univers de Lubrification",
+      "en": "Lubrication Segments",
+      "ar": "قطاعات التزييت المتخصصة"
+    },
+    "title": {
+      "fr": "Spécialistes des Lubrifiants Hautes Performances",
+      "en": "High-Performance Lubricant Specialists",
+      "ar": "متخصصون في زيوت التشحيم عالية الأداء"
+    },
+    "desc": {
+      "fr": "Formulés dans nos laboratoires certifiés en Espagne et distribués dans tout le Royaume du Maroc avec un accompagnement technique sur mesure.",
+      "en": "Engineered in our certified laboratories in Spain and distributed across Morocco with dedicated technical guidance.",
+      "ar": "تم تطويرها في مختبراتنا المعتمدة في إسبانيا وتوزيعها في جميع أنحاء المملكة المغربية مع مواكبة فنية مخصصة."
+    },
+    "card_4wheels_title": {
+      "fr": "Gamme 4 Roues",
+      "en": "4-Wheeled Range",
+      "ar": "مجموعة 4 عجلات"
+    },
+    "card_4wheels_desc": {
+      "fr": "Véhicules légers, Poids lourds, Machines agricoles, Transmissions, Liquides de freins et Fluides industriels.",
+      "en": "Light vehicles, Commercial trucks, Agricultural machines, Transmissions, Brake fluids and Industrial hydraulics.",
+      "ar": "السيارات الخفيفة، الشاحنات الثقيلة، الآلات الفلاحية، نواقل الحركة، سوائل الفرامل والزيوت الصناعية."
+    },
+    "card_4wheels_btn": {
+      "fr": "Voir Catalogue 4 Roues",
+      "en": "View 4-Wheeled Catalog",
+      "ar": "عرض كتالوج 4 عجلات"
+    },
+    "card_2wheels_title": {
+      "fr": "Gamme 2 Roues",
+      "en": "2-Wheeled Range",
+      "ar": "مجموعة عجلتان"
+    },
+    "card_2wheels_desc": {
+      "fr": "Moteurs 4T Factory Racing, 4T Synthétique, 2T Compétition, Huiles de Fourche et Gamme Motocare.",
+      "en": "4-Stroke Factory Racing, Synthetic 4T, 2T Competition, Fork & Shock Oils, and Motocare Spray series.",
+      "ar": "محركات 4T سباقات، 4T اصطناعي، 2T مسابقات، زيوت المساعدين ومجموعة Motocare المتكاملة."
+    },
+    "card_2wheels_btn": {
+      "fr": "Voir Catalogue 2 Roues",
+      "en": "View 2-Wheeled Catalog",
+      "ar": "عرض كتالوج الدراجات"
+    },
+    "card_industry_title": {
+      "fr": "Industrie & Travaux Publics",
+      "en": "Industry & Heavy Equipment",
+      "ar": "الصناعة والأشغال العمومية"
+    },
+    "card_industry_desc": {
+      "fr": "Huiles hydrauliques HLP/HV, graisses extrême pression, huiles d'engrenages et fluides biodégradables.",
+      "en": "HLP/HV Hydraulic oils, extreme pressure greases, gear oils and biodegradable fluids.",
+      "ar": "زيوت هيدروليكية HLP/HV، شحوم الضغط العالي، زيوت التروس وسوائل صديقة للبيئة."
+    },
+    "card_industry_btn": {
+      "fr": "Solutions Industrielles",
+      "en": "Industrial Solutions",
+      "ar": "الحلول الصناعية"
+    }
+  },
+  "catalog_page": {
+    "title_4r": {
+      "fr": "Catalogue 4 Roues - SIL Lubricants Maroc",
+      "en": "4-Wheeled Catalog - SIL Lubricants Morocco",
+      "ar": "كتالوج 4 عجلات - زيوت SIL بالمغرب"
+    },
+    "subtitle_4r": {
+      "fr": "Découvrez notre gamme complète pour véhicules particuliers, utilitaires, poids lourds, matériel agricole et industrie.",
+      "en": "Discover our comprehensive range for passenger cars, commercial vehicles, heavy trucks, agriculture and industry.",
+      "ar": "اكتشف تشكيلتنا الكاملة للسيارات الخفيفة، النفعية، الشاحنات الثقيلة، المعدات الفلاحية والصناعية."
+    },
+    "title_2r": {
+      "fr": "Catalogue 2 Roues & Motocare - SIL Lubricants Maroc",
+      "en": "2-Wheeled & Motocare Catalog - SIL Lubricants Morocco",
+      "ar": "كتالوج الدراجات النارية ومجموعة Motocare - المغرب"
+    },
+    "subtitle_2r": {
+      "fr": "Huiles moteur 4T et 2T de compétition, suspensions et produits d'entretien d'atelier pour deux-roues.",
+      "en": "Competition 4T and 2T engine oils, suspensions and workshop bike maintenance care.",
+      "ar": "زيوت المحركات 4T و2T للسباقات، زيوت المساعدين ومنتجات العناية بالدراجات النارية."
+    },
+    "search_placeholder": {
+      "fr": "Rechercher un produit (ex: 5W30, 10W40, DEXRON, 0W20, MB 229.51)...",
+      "en": "Search products (e.g. 5W30, 10W40, DEXRON, 0W20, MB 229.51)...",
+      "ar": "ابحث عن منتج (مثال: 5W30، 10W40، DEXRON، 0W20، MB 229.51)..."
+    },
+    "filter_all": {
+      "fr": "Tous les produits",
+      "en": "All Products",
+      "ar": "جميع المنتجات"
+    },
+    "filter_by_subcat": {
+      "fr": "Catégorie :",
+      "en": "Category:",
+      "ar": "الفئة:"
+    },
+    "filter_by_viscosity": {
+      "fr": "Viscosité :",
+      "en": "Viscosity:",
+      "ar": "اللزوجة:"
+    },
+    "all_viscosities": {
+      "fr": "Toutes les viscosités",
+      "en": "All Viscosities",
+      "ar": "كافة درجات اللزوجة"
+    },
+    "results_found": {
+      "fr": "produit(s) disponible(s)",
+      "en": "product(s) available",
+      "ar": "منتج(ات) متوفر(ة)"
+    },
+    "no_results": {
+      "fr": "Aucun produit ne correspond à votre recherche.",
+      "en": "No products match your search criteria.",
+      "ar": "لم يتم العثور على أي منتج يطابق بحثكم."
+    },
+    "view_details": {
+      "fr": "Fiche Technique",
+      "en": "Technical Sheet",
+      "ar": "البطاقة التقنية"
+    },
+    "order_quote": {
+      "fr": "Commander / Devis",
+      "en": "Order / Quote",
+      "ar": "طلب / عرض سعر"
+    },
+    "specifications": {
+      "fr": "Normes & Homologations",
+      "en": "Standards & Approvals",
+      "ar": "المعايير والاعتمادات"
+    },
+    "packaging": {
+      "fr": "Conditionnements disponibles",
+      "en": "Available Packaging",
+      "ar": "التعبئات المتوفرة"
+    },
+    "applications": {
+      "fr": "Applications & Recommandations",
+      "en": "Applications & Guidance",
+      "ar": "التطبيقات والاستخدامات"
+    },
+    "close_modal": {
+      "fr": "Fermer",
+      "en": "Close",
+      "ar": "إغلاق"
+    }
+  },
+  "catalogues_download": {
+    "title": {
+      "fr": "Catalogues & Documentation Officielle",
+      "en": "Official Catalogs & Documentation",
+      "ar": "الكتالوجات والوثائق الرسمية"
+    },
+    "subtitle": {
+      "fr": "Téléchargez gratuitement nos catalogues officiels complets au format PDF pour consulter l'ensemble des spécifications et gammes SIL.",
+      "en": "Download our comprehensive official PDF catalogs for full product specifications and SIL line overviews.",
+      "ar": "قم بتحميل كتالوجاتنا الرسمية بصيغة PDF للاطلاع على كافة المواصفات والتشكيلات المعتمدة."
+    },
+    "card1_title": {
+      "fr": "Catalogue Automobile & Industrie (4 Roues)",
+      "en": "Automotive & Industrial Catalog (4-Wheeled)",
+      "ar": "كتالوج السيارات والصناعة (4 عجلات)"
+    },
+    "card1_desc": {
+      "fr": "Catalogue exhaustif couvrant les huiles moteur 100% synthétiques, véhicules lourds, transmissions, hydraulique, graisses et liquides de refroidissement.",
+      "en": "Comprehensive catalog covering 100% synthetic engine oils, heavy duty, transmissions, hydraulics, greases and coolants.",
+      "ar": "كتالوج شامل يغطي زيوت المحركات الاصطناعية 100%، الشاحنات، نواقل الحركة، الهيدروليك، الشحوم وسوائل التبريد."
+    },
+    "card2_title": {
+      "fr": "Catalogue Motoline & Motocare (2 Roues)",
+      "en": "Motoline & Motocare Catalog (2-Wheeled)",
+      "ar": "كتالوج الدراجات النارية والعناية (عجلتان)"
+    },
+    "card2_desc": {
+      "fr": "Gamme complète de lubrifiants moto compétition 4T/2T, huiles de fourche racing, lubrifiants de chaîne et gamme de maintenance Motocare.",
+      "en": "Complete range of 4T/2T competition motorcycle lubricants, racing fork oils, chain lubes and Motocare maintenance products.",
+      "ar": "مجموعة كاملة من زيوت الدراجات النارية للسباقات 4T/2T، زيوت المساعدين، زيوت السلاسل ومستلزمات الصيانة."
+    },
+    "btn_download": {
+      "fr": "Télécharger le PDF",
+      "en": "Download PDF",
+      "ar": "تحميل ملف PDF"
+    },
+    "btn_view": {
+      "fr": "Consulter en ligne",
+      "en": "View Online",
+      "ar": "معاينة مباشرة"
+    }
+  },
+  "company": {
+    "badge": {
+      "fr": "L'Excellence Espagnole au Maroc",
+      "en": "Spanish Excellence in Morocco",
+      "ar": "الريادة الإسبانية بالمغرب"
+    },
+    "title": {
+      "fr": "Entreprise SIL Lubricants",
+      "en": "About SIL Lubricants",
+      "ar": "عن شركة SIL Lubricants"
+    },
+    "p1": {
+      "fr": "Situées à Gavà (Barcelone), nos installations s'étendent sur plus de 10 000 m² et intègrent une usine de fabrication ultramoderne, un laboratoire de Recherche & Développement (R&D) à la pointe de la technologie et une plateforme logistique internationale.",
+      "en": "Located in Gavà (Barcelona), our facilities span over 10,000 m² encompassing an ultra-modern manufacturing plant, a state-of-the-art Research & Development (R&D) laboratory, and an international logistics hub.",
+      "ar": "تمتد منشآتنا في غافا (برشلونة) على مساحة تزيد عن 10,000 متر مربع، وتضم مصنعاً فائق الحداثة، ومختبراً متطوراً للبحث والتطوير (R&D)، ومركزاً لوجستياً دولياً متكاملاً."
+    },
+    "p2": {
+      "fr": "Depuis plus de 75 ans, SIL Lubricants développe des formules sur mesure homologuées par les plus grands constructeurs mondiaux (Mercedes-Benz, Volkswagen, BMW, Porsche, Renault, MAN, Volvo, JASO).",
+      "en": "For over 75 years, SIL Lubricants has formulated tailor-made lubricants approved by the world's leading manufacturers (Mercedes-Benz, Volkswagen, BMW, Porsche, Renault, MAN, Volvo, JASO).",
+      "ar": "لأكثر من 75 عاماً، تقوم SIL بتطوير تركيبات متميزة معتمدة من كبرى الشركات العالمية لصناعة المحركات (مرسيدس-بنز، فولكس فاجن، بي إم دبليو، بورشه، رينو، مان، فولفو، وجاسو)."
+    },
+    "p3": {
+      "fr": "Au Maroc, notre antenne assure une distribution réactive, un stock permanent disponible immédiatement et un conseil technique de haut niveau pour les professionnels de l'automobile, du transport, de l'agriculture et de l'industrie.",
+      "en": "In Morocco, our branch provides responsive distribution, permanent on-hand stock, and high-level technical advisory for automotive, transport, agriculture, and industrial professionals.",
+      "ar": "في المغرب، توفر فرعنا شبكة توزيع سريعة، ومخزوناً دائماً متوفراً فوراً، مع استشارات فنية متقدمة لمهنيي السيارات، والنقل، والفلاحة والصناعة."
+    },
+    "values_title": {
+      "fr": "Nos Engagements Qualité",
+      "en": "Our Quality Commitments",
+      "ar": "التزاماتنا بالجودة"
+    },
+    "val1_title": {
+      "fr": "100% Fabriqué en Europe",
+      "en": "100% Made in Europe",
+      "ar": "صنع أوروبي 100%"
+    },
+    "val1_desc": {
+      "fr": "Formulation et conditionnement direct depuis notre usine de Barcelone selon les normes ISO 9001 et ISO 14001.",
+      "en": "Formulated and packaged directly at our Barcelona plant under ISO 9001 & ISO 14001 standards.",
+      "ar": "تصنيع وتعبئة مباشرة من مصنع برشلونة وفق أعلى معايير الجودة الدولية ISO 9001 وISO 14001."
+    },
+    "val2_title": {
+      "fr": "Performance Motorsport",
+      "en": "Motorsport Proven",
+      "ar": "أداء معتمد في السباقات"
+    },
+    "val2_desc": {
+      "fr": "Testé et approuvé dans les compétitions mondiales de Trial, Rallye-Raid dans le désert et championnats FIM.",
+      "en": "Tested and validated in extreme Trial world championships, desert rally raids, and FIM competitions.",
+      "ar": "تم اختباره وإثبات كفاءته في بطولات الترايال العالمية، راليات الصحراء الصعبة وبطولات FIM."
+    },
+    "val3_title": {
+      "fr": "Distribution & Stock au Maroc",
+      "en": "Morocco Logistics & Stock",
+      "ar": "توزيع ومخزون محلي بالمغرب"
+    },
+    "val3_desc": {
+      "fr": "Livraison rapide dans toutes les régions du Royaume pour grossistes, garages, flottes et usines.",
+      "en": "Fast delivery across all regions of Morocco for wholesalers, workshops, fleets, and industrial plants.",
+      "ar": "توصيل سريع لجميع جهات المملكة لفائدة تجار الجملة، الورشات، أساطيل النقل والمصانع."
+    }
+  },
+  "news_section": {
+    "badge": {
+      "fr": "Motorsport & Événements",
+      "en": "Motorsport & Events",
+      "ar": "رياضة المحركات والأخبار"
+    },
+    "title": {
+      "fr": "Dernières Actualités & Compétitions",
+      "en": "Latest News & Racing",
+      "ar": "آخر الأخبار والمنافسات"
+    },
+    "read_more": {
+      "fr": "En savoir plus",
+      "en": "Read More",
+      "ar": "اقرأ المزيد"
+    }
+  },
+  "contact_section": {
+    "badge": {
+      "fr": "Antenne & Distribution Maroc",
+      "en": "Morocco Distribution Hub",
+      "ar": "فرع وتوزيع المغرب"
+    },
+    "title": {
+      "fr": "Contactez Notre Équipe au Maroc",
+      "en": "Contact Our Morocco Team",
+      "ar": "تواصل مع فريقنا في المغرب"
+    },
+    "desc": {
+      "fr": "Vous êtes garagiste, revendeur de pièces, gestionnaire de flotte ou industriel ? Contactez-nous pour recevoir nos tarifs distributeur, catalogues papier ou un devis personnalisé.",
+      "en": "Are you a workshop owner, spare parts distributor, fleet manager, or industrial plant? Contact us for distributor pricing, printed catalogs, or customized quotes.",
+      "ar": "هل أنت صاحب ورشة، تاجر قطع غيار، مسير أسطول نقل أو شركة صناعية؟ تواصل معنا للحصول على أسعار الموزعين والكتالوجات وعروض الأسعار المخصصة."
+    },
+    "form_title": {
+      "fr": "Demande de Devis / Information",
+      "en": "Request a Quote / Info",
+      "ar": "طلب عرض سعر / معلومات"
+    },
+    "name_label": {
+      "fr": "Nom complet ou Société *",
+      "en": "Full Name or Company *",
+      "ar": "الاسم الكامل أو اسم الشركة *"
+    },
+    "phone_label": {
+      "fr": "Numéro de téléphone *",
+      "en": "Phone Number *",
+      "ar": "رقم الهاتف *"
+    },
+    "email_label": {
+      "fr": "Adresse Email *",
+      "en": "Email Address *",
+      "ar": "البريد الإلكتروني *"
+    },
+    "city_label": {
+      "fr": "Ville au Maroc *",
+      "en": "City in Morocco *",
+      "ar": "المدينة بالمغرب *"
+    },
+    "activity_label": {
+      "fr": "Votre secteur d'activité",
+      "en": "Business Sector",
+      "ar": "قطاع النشاط"
+    },
+    "activity_garage": {
+      "fr": "Garage / Concessionnaire",
+      "en": "Workshop / Dealership",
+      "ar": "ورشة / موزع سيارات"
+    },
+    "activity_distributor": {
+      "fr": "Revendeur / Grossiste Pièces",
+      "en": "Auto Parts Wholesaler/Retailer",
+      "ar": "تاجر قطع غيار / جملة"
+    },
+    "activity_transport": {
+      "fr": "Transport & Flottes Poids Lourds",
+      "en": "Fleet & Heavy Transport",
+      "ar": "نقل وأساطيل الشاحنات"
+    },
+    "activity_agri": {
+      "fr": "Agriculture & BTP",
+      "en": "Agriculture & Construction",
+      "ar": "فلاحة وأشغال عمومية"
+    },
+    "activity_industry": {
+      "fr": "Industrie / Usine",
+      "en": "Industrial / Manufacturing",
+      "ar": "صناعة / معمل"
+    },
+    "activity_moto": {
+      "fr": "Moto / Passionné",
+      "en": "Motorcycle / Individual",
+      "ar": "دراجات نارية / أفراد"
+    },
+    "message_label": {
+      "fr": "Votre message ou produits souhaités *",
+      "en": "Your Message or Requested Products *",
+      "ar": "رسالتكم أو المنتجات المطلوبة *"
+    },
+    "btn_submit": {
+      "fr": "Envoyer ma demande",
+      "en": "Send Request",
+      "ar": "إرسال الطلب"
+    },
+    "btn_whatsapp_direct": {
+      "fr": "Discuter sur WhatsApp",
+      "en": "Chat on WhatsApp",
+      "ar": "مراسلة مباشرة عبر واتساب"
+    },
+    "info_title": {
+      "fr": "Coordonnées de l'Antenne Maroc",
+      "en": "Morocco Branch Coordinates",
+      "ar": "معلومات فرع المغرب"
+    },
+    "address_label": {
+      "fr": "Siège & Showroom :",
+      "en": "Headquarters & Showroom:",
+      "ar": "المقر الرئيسي وقاعة العرض:"
+    },
+    "warehouse_label": {
+      "fr": "Dépôt Logistique :",
+      "en": "Logistics Depot:",
+      "ar": "المستودع اللوجستي:"
+    },
+    "phone_title": {
+      "fr": "Téléphone & Fixe :",
+      "en": "Phone & Landline:",
+      "ar": "الهاتف الثابت والمحمول:"
+    },
+    "whatsapp_title": {
+      "fr": "WhatsApp Commercial :",
+      "en": "Commercial WhatsApp:",
+      "ar": "واتساب التجاري:"
+    },
+    "email_title": {
+      "fr": "Emails :",
+      "en": "Emails:",
+      "ar": "البريد الإلكتروني:"
+    },
+    "hours_title": {
+      "fr": "Horaires d'ouverture :",
+      "en": "Opening Hours:",
+      "ar": "ساعات العمل:"
+    },
+    "legal_title": {
+      "fr": "Identifiants Légaux Maroc :",
+      "en": "Moroccan Legal IDs:",
+      "ar": "المعرفات القانونية بالمغرب:"
+    },
+    "form_success": {
+      "fr": "Merci ! Votre demande a été transmise à l'équipe SIL Lubricants Maroc.",
+      "en": "Thank you! Your request has been sent to the SIL Lubricants Morocco team.",
+      "ar": "شكراً لكم! تم إرسال طلبكم بنجاح إلى فريق زيوت SIL بالمغرب."
+    }
+  },
+  "footer": {
+    "about": {
+      "fr": "Distributeur officiel exclusif des lubrifiants espagnols SIL Lubricants au Maroc. Qualité premium, recherche & développement interne et homologations constructeurs pour tous types de moteurs et machines industrielles.",
+      "en": "Official exclusive distributor of Spanish premium SIL Lubricants in Morocco. Top-tier quality, internal R&D and OEM manufacturer approvals for all engines and industrial equipment.",
+      "ar": "الموزع الرسمي والحصري لزيوت SIL الإسبانية في المغرب. جودة فائقة، بحث وتطوير مستمر واعتمادات دولية لكافة المحركات والآليات الصناعية."
+    },
+    "quick_links": {
+      "fr": "Liens Rapides",
+      "en": "Quick Links",
+      "ar": "روابط سريعة"
+    },
+    "product_ranges": {
+      "fr": "Nos Gammes",
+      "en": "Our Ranges",
+      "ar": "تشكيلاتنا"
+    },
+    "contact_us": {
+      "fr": "Contact Maroc",
+      "en": "Morocco Contact",
+      "ar": "اتصل بنا بالمغرب"
+    },
+    "follow_us": {
+      "fr": "Suivez-nous",
+      "en": "Follow Us",
+      "ar": "تابعنا"
+    },
+    "rights": {
+      "fr": "Tous droits réservés. Distributeur Officiel SIL Lubricants Maroc.",
+      "en": "All rights reserved. Official SIL Lubricants Morocco Distributor.",
+      "ar": "جميع الحقوق محفوظة. الموزع الرسمي لزيوت SIL بالمغرب."
+    },
+    "legal": {
+      "fr": "Mentions Légales",
+      "en": "Legal Notice",
+      "ar": "إشعار قانوني"
+    },
+    "privacy": {
+      "fr": "Politique de Confidentialité",
+      "en": "Privacy Policy",
+      "ar": "سياسة الخصوصية"
+    }
+  }
+}

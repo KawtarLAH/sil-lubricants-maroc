@@ -1,0 +1,3388 @@
+[
+  {
+    "id": "sil-power-ultra-10w50",
+    "name": "SIL POWER ULTRA 10W50",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: SL/CF-4",
+      "ACEA: A-3/B-4/A-5/B-5",
+      "VW: 500.00/501.01/505.00"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique haute performance. Particulièrement adapté aux véhicules de compétition.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-ultra-5w40",
+    "name": "SIL POWER ULTRA 5W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "5W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-POWER-SUPER-5W30_5LBaixa.jpg",
+    "specs": [
+      "API: SN/CF; ACEA: C-2/C-3; VW: 502.00/505.01",
+      "BMW: LONG LIFE 04; RN: 0700 / RN 0710",
+      "PSA: B 71 2290 PORSCHE: A 40"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique « MID SAPS » conçu pour respecter les intervalles de vidange les plus longs. Adapté aux moteurs Euro IV et V.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-super-5w30",
+    "name": "SIL POWER SUPER 5W30",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "5W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-POWER-ULTRA5W30-5L.jpg",
+    "specs": [
+      "API: SN/CF; ACEA: C-2/C-3; VW: 502.00/505.01",
+      "BMW: LONG LIFE 04; RN: 0700 / RN 0710",
+      "PSA: B 71 2290 PORSCHE: A 40"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique « MID SAPS » conçu pour respecter les intervalles de vidange les plus longs. Adapté aux moteurs Euro IV et V.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-ultra-5w30",
+    "name": "SIL POWER ULTRA 5W30",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "5W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-POWER-ULTRA0W30-5L.jpg",
+    "specs": [
+      "API: SN; ACEA: C-3",
+      "VW: 504/507; PORSCHE: C 30"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique « MID SAPS » conçu pour respecter les intervalles de vidange les plus longs. Adapté aux moteurs Euro IV et V.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-ultra-0w30",
+    "name": "SIL POWER ULTRA 0W30",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "0W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-POWER-ULTRA0W20-5L.jpg",
+    "specs": [
+      "API: SN/CF; ACEA: C-2/C-3",
+      "MB: 229.31/229.51; VW: 502.01/505.01",
+      "BMW: LONG LIFE 04"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique spécial pour moteurs essence et diesel à hautes performances. Il réduit l&rsquo;usure et permet une grande économie de carburant. Compatible avec les systèmes Start-Stop.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-ultra-0w20",
+    "name": "SIL POWER ULTRA 0W20",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "0W20",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: SN/CF",
+      "ACEA: C-5",
+      "MB: 229.31/229.51"
+    ],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique spécial pour moteurs essence et diesel à hautes performances. Il réduit l&rsquo;usure et permet une grande économie de carburant. Compatible avec les systèmes Start-Stop.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-turbo-20w50",
+    "name": "SIL POWER TURBO 20W50",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "20W50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-SUPER-TDI-15W40-scaled.jpg",
+    "specs": [
+      "API: SF/CF",
+      "ACEA: A-3/B-4",
+      "VW: 501.01/505.00"
+    ],
+    "description": {
+      "fr": "Huile moteur essence et diesel pour moteurs à injection directe TDI, common-rail ou avec EGR.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-super-tdi-15w40",
+    "name": "SIL POWER SUPER TDI 15W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "15W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-TURBO-10W40-5L-scaled.jpg",
+    "specs": [
+      "API: SL/CF",
+      "ACEA: A-3/B-4",
+      "VW: 501.01/505.00"
+    ],
+    "description": {
+      "fr": "Huile moteur essence et diesel. Spéciale moteurs suralimentés et à injection directe. Service sévère.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-turbo-10w40",
+    "name": "SIL POWER TURBO 10W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-10W40-Baixa.jpg",
+    "specs": [
+      "API: SN/CF-4",
+      "ACEA: A-3/B-4",
+      "VW: 500.00/501.01/505.00"
+    ],
+    "description": {
+      "fr": "Huile synthétique adaptée à l&rsquo;essence et au diesel. Optimise les intervalles de vidange.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-ultra-10w40",
+    "name": "SIL POWER ULTRA 10W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: SN/CF-4",
+      "ACEA: A-3/B-4",
+      "VW: 500.00/501.01/505.00"
+    ],
+    "description": {
+      "fr": "Huile synthétique adaptée à l&rsquo;essence et au diesel. Optimise les intervalles de vidange.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-s-iii",
+    "name": "SIL POWER S-III",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [
+      "API: CF / SF"
+    ],
+    "description": {
+      "fr": "Huile moteur monograde SÉRIE III. Diesel poids lourds et essence.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-max-turbo-15w40",
+    "name": "SIL POWER MAX TURBO 15W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "15W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-MAX-15W40-Baixa.jpg",
+    "specs": [
+      "API: CF-4/SN"
+    ],
+    "description": {
+      "fr": "Huile moteur super multigrade essence et diesel. Spéciale moteurs Turbo SHPD, intervalles de 250 heures.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-15w40",
+    "name": "SIL POWER MAX 15W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "15W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "API: CI-4; ACEA: E-5/E-7"
+    ],
+    "description": {
+      "fr": "MB 228.3; MAN 3277; VOLVO VDS-3",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-15w40-ms-e-9",
+    "name": "SIL POWER MAX 15W40 MS E-9",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "15W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-MAX-10W40-Baixa.jpg",
+    "specs": [
+      "API: CK-4; ACEA: E6/E-7/E-9",
+      "MB: 228.51; MAN 3575; VDS 4.5"
+    ],
+    "description": {
+      "fr": "Lubrifiant formulé à base de bases synthétiques. Spécial véhicules industriels, agricoles et travaux publics équipés d&rsquo;un filtre à particules.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-10w40",
+    "name": "SIL POWER MAX 10W40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [
+      "API: CI-4; ACEA: E-5/E-7"
+    ],
+    "description": {
+      "fr": "VOLVO VDS-3; RENAULT RVI RD",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-10w40-ms-plus",
+    "name": "SIL POWER MAX 10W40 MS PLUS",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [
+      "API: CK-4; ACEA: E-4/E-6/E-7/E-9"
+    ],
+    "description": {
+      "fr": "MB 228.51; MAN 3575; VDS-4.5",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-10w30-ms-e-9",
+    "name": "SIL POWER MAX 10W30 MS E-9",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [
+      "API: CK-4; ACEA: E-6/E-7/E-9"
+    ],
+    "description": {
+      "fr": "VDS-4.5; RLD-4; IVECO TLS E9",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-max-5w30-ms-plus",
+    "name": "SIL POWER MAX 5W30 MS PLUS",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "5W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: CK-4; ACEA: E-6/E-7/E-9"
+    ],
+    "description": {
+      "fr": "VDS-4.5; RLD-4; IVECO TLS E9",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-tractor-oil-10w30-ls",
+    "name": "SIL TRACTOR OIL 10W30 LS",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "MF: 1135/1141/1143/1145",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-tractor-oil-56",
+    "name": "SIL TRACTOR OIL 56",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "MF: 1135/1141/1143/1145",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-tractor-oil-15w40-stou",
+    "name": "SIL TRACTOR OIL 15W40 STOU",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "15W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "ACEA: CG-4/SF",
+      "MB: 227.1; API: GL-4"
+    ],
+    "description": {
+      "fr": "MF: 1139 / 1144 / 1145",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-tractor-oil-10w30-stou",
+    "name": "SIL TRACTOR OIL 10W30 STOU",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "ACEA: CG-4/SF",
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Huile spéciale pour moteur, transmissions, hydraulique et freins. Idéale lorsqu&rsquo;un lubrifiant aux spécifications STOU est requis.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-trans-to-4-sae-50",
+    "name": "SIL TRANS TO-4 SAE 50",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "SAE 50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Fluide spécial transmissions, essieux, convertisseurs de couple et commandes finales. Là où des fluides de type CATERPILLAR TO-4 sont requis.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-trans-to-4-sae-30",
+    "name": "SIL TRANS TO-4 SAE 30",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "SAE 30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Fluide spécial transmissions, essieux, convertisseurs de couple et commandes finales. Là où des fluides de type CATERPILLAR TO-4 sont requis.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-trans-to-4-sae-10w",
+    "name": "SIL TRANS TO-4 SAE 10W",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "SAE 10W",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Fluide spécial transmissions, essieux, convertisseurs de couple et commandes finales. Là où des fluides de type CATERPILLAR TO-4 sont requis.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-atf-dexron-vi",
+    "name": "SIL ATF DEXRON VI",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-ATF-DEXRON-III-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Produit 100 % synthétique. Transmissions automatiques. Pour véhicules légers et lourds.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-atf-dexron-iii",
+    "name": "SIL ATF DEXRON III",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-ATF-DEXRON-II-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "DEXRON-III; CATERPILLAR TO-2",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-atf-dexron-ii",
+    "name": "SIL ATF DEXRON II",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Transmissions automatiques (ATF), turbo-embrayages, convertisseurs de couple. Adapté comme fluide hydraulique pour les services très sévères.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-140-ep-gl-4",
+    "name": "SIL GEAR 140 EP GL-4",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-GEAR-90-EP-Baixa.jpg",
+    "specs": [
+      "API: GL-4; MIL: L-2105 D"
+    ],
+    "description": {
+      "fr": "AIST 224; AGMA 9005-E02",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-90-ep-gl-4",
+    "name": "SIL GEAR 90 EP GL-4",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-GEAR-75W80-GL-5_5L-Baixa.jpg",
+    "specs": [
+      "API: GL-4; MIL: L-2105 D"
+    ],
+    "description": {
+      "fr": "AIST 224; AGMA 9005-E02",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-75w90-gl-4",
+    "name": "SIL GEAR 75W90 GL-4",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "75W90",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-GEAR-75W80-GL-5_5L-Baixa.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Huile synthétique pour boîtes de vitesses, transmissions manuelles et différentiels. Pour tous types de véhicules.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-gear-75w80-gl-4",
+    "name": "SIL GEAR 75W80 GL-4",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "75W80",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GEAR-85W140-GL-5-LS-baixa.jpg",
+    "specs": [
+      "API: GL-4"
+    ],
+    "description": {
+      "fr": "Huile synthétique pour boîtes de vitesses, transmissions manuelles et différentiels. Pour tous types de véhicules.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-85w140",
+    "name": "SIL GEAR 85W140",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "85W140",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GEAR-80W90-GL-5-LS-Baixa.jpg",
+    "specs": [
+      "API: GL-5 LS"
+    ],
+    "description": {
+      "fr": "Huile extrême pression formulée pour boîtes de vitesses et différentiels standards et/ou à glissement limité autobloquant. Conforme LIMITED SLIP.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-80w90-gl-5",
+    "name": "SIL GEAR 80W90 GL-5",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "80W90",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GEAR-75W90-SYNT-GL-5-Baixa.jpg",
+    "specs": [
+      "API: GL-5 LS; AIST 224"
+    ],
+    "description": {
+      "fr": "Huile extrême pression pour boîtes de vitesses et différentiels, à engrenages hypoïdes et hélicoïdaux. Pour tous types de véhicules. Conforme LIMITED SLIP.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-75w90-synt-gl-5",
+    "name": "SIL GEAR 75W90 SYNT GL-5",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "75W90",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GEAR-75W80-GL-5-Baixa.jpg",
+    "specs": [
+      "API: GL-5 LS"
+    ],
+    "description": {
+      "fr": "Huile synthétique pour boîtes de vitesses, transmissions manuelles et différentiels. Pour tous types de véhicules de dernière génération. Conforme LIMITED SLIP.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-75w80-gl-5",
+    "name": "SIL GEAR 75W80 GL-5",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "75W80",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [
+      "API: GL-5 LS"
+    ],
+    "description": {
+      "fr": "Huile extrême pression pour boîtes de vitesses et différentiels, à engrenages hypoïdes et hélicoïdaux. Pour tous types de véhicules. Conforme LIMITED SLIP.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-lct-32",
+    "name": "SIL LCT-32",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/BidoGran_SIL-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Fluide à base minérale avec additifs dispersants et détergents. Spécial nettoyage des circuits hydrauliques et thermiques.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-hidraulic-iv-300",
+    "name": "SIL HIDRAULIC IV-300",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/BidoGran_SIL-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant hydraulique EP fabriqué à base de bases synthétiques. Spécialement conçu pour les directions assistées (suspensions, freins, transmissions servo-assistées).",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-lhm",
+    "name": "SIL LHM",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/BidoGran_SIL-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Huile hydraulique minérale, pour circuits de freins et de suspension. Adaptée uniquement aux circuits peints en vert.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-brake-fluid",
+    "name": "SIL BRAKE FLUID",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Liquide de frein synthétique. Point d&rsquo;ébullition 270 °C. Conforme à la norme DOT 4.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-perforaci-n-100",
+    "name": "SIL PERFORACIÓN 100",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant EP, spécial pour marteaux-piqueurs pneumatiques. Formation de mousse minimale.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-power-10w-sae-10w",
+    "name": "SIL POWER 10W SAE 10W",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "10W",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Hydraulique spécial engins de travaux publics. Pour circuits et transmissions soumis à des variations extrêmes de température et de pression.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-hidraulic-bio-olv-32-46-68",
+    "name": "SIL HIDRAULIC BIO OLV 32-46-68",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Huile hydraulique BIODÉGRADABLE. Formulée à base d&rsquo;huiles végétales. Résistante au feu.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-poc-46",
+    "name": "SIL POWER POC 46",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "DIN 51524 Parte II HLP",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-hv-32-46-68",
+    "name": "SIL POWER HV 32 - 46 - 68",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "DIN 51524 Parte III HVLP",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-power-hlp-32-46-68",
+    "name": "SIL POWER HLP 32 - 46 - 68",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "DIN 51524 Parte I y II HLP",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-silicona",
+    "name": "SIL SILICONA",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SPRAY-SIL-GREASE-NTO-2T-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant antiadhérent. Sans CFC. Protection contre l&rsquo;humidité, la poussière et la corrosion. Empêche la pénétration de poussière et de particules de saleté.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-nto",
+    "name": "SIL GREASE NTO",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Chain-Lube-ARS-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse multi-usages très haute performance. Produit NON TOXIQUE. Résistante à l&rsquo;eau et grande adhérence. Plage de température de service de -10 °C à +150 °C.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-chain-lube-ars",
+    "name": "SIL CHAIN LUBE ARS",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/CARBURETTOR-CLEANER-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant à base synthétique très adhérent avec PTFE. Spécial lubrification des chaînes. Grande protection contre la rouille et la corrosion. Sans point de goutte. Résistant à l&rsquo;eau.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-limpiacarburadores",
+    "name": "SIL LIMPIACARBURADORES",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-Contact-Cleaner-Spray-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Formulé avec des solvants désincrustants qui favorisent l&rsquo;élimination du calamine adhérant aux pièces métalliques. Ne laisse pas de résidus. Éviter tout contact avec les plastiques et les caoutchoucs.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-contact-cleaner",
+    "name": "SIL CONTACT CLEANER",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Sil-Multiusos-Spray-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Nettoyant dégraissant pour freins, embrayages, tambours… Point d&rsquo;ébullition bas. Séchage rapide.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-multiusos-10x1",
+    "name": "SIL MULTIUSOS 10X1",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Multi-usages additivé au PTFE haute performance. Grand pouvoir de pénétration, de protection et de lubrification.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-sca-460",
+    "name": "SIL GREASE SCA 460",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse au sulfonate de calcium. Grande résistance à l&rsquo;eau. Spéciale mines et applications nécessitant de fortes charges EP.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-cu-spg-2",
+    "name": "SIL GREASE CU SPG-2",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GREASE-CLT-2-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse au cuivre. Anti-grippante. Spéciale marteaux-piqueurs.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-clt",
+    "name": "SIL GREASE CLT",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GREASE-MOLY-2-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse semi-synthétique complexe au lithium et extrême pression. Hautes températures et fortes charges.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-moly",
+    "name": "SIL GREASE MOLY",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-GREASE-L-EP-SPRAY-scaled.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse à base de lithium. Extrême pression et additifs au bisulfure de molybdène.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-grease-l-ep",
+    "name": "SIL GREASE L-EP",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse à base de lithium. Extrême pression. Multifonctionnelle. Graissage général dans l&rsquo;industrie et l&rsquo;automobile.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "dilex-pasta",
+    "name": "DILEX PASTA",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Crème nettoyante pour les mains. Grand pouvoir nettoyant. Contient des microbilles adoucissantes et dégraissantes.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-ds-40",
+    "name": "SIL DS-40",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/BidoGran_SIL.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Dégraissant pur. Élimine les taches d&rsquo;huile et de graisse sur toute surface : machines, sols, parkings.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-dsg",
+    "name": "SIL DSG",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Sil-Limpia-parabrisas-5-L-copia.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Dégraissant émulsionnable à l&rsquo;eau. Grand pouvoir désincrustant des huiles et graisses. N&rsquo;attaque ni les peintures ni les caoutchoucs.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-limpiaparabrisas",
+    "name": "SIL LIMPIAPARABRISAS",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Produit spécial pour le nettoyage du pare-brise. Grand pouvoir désincrustant et nettoyant.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-anticongelante-30-org-nico",
+    "name": "SIL ANTICONGELANTE 30% ORGÁNICO",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/ANTICONGELANTE-30-5Lxweb-3.jpg",
+    "specs": [],
+    "description": {
+      "fr": "ASTM D-4985 / ASTM D-3306",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-anticongelante-50-org-nico",
+    "name": "SIL ANTICONGELANTE 50% ORGÁNICO",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/ANTICONGELANTE-30-5Lxweb-3.jpg",
+    "specs": [],
+    "description": {
+      "fr": "ASTM D-4985 / ASTM D-3306",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-anticongelante-puro",
+    "name": "SIL ANTICONGELANTE PURO",
+    "main_category": "4-roues",
+    "subcategory_id": "4r_light_synth",
+    "subcategory_name": {
+      "fr": "Lubrifiants Moteur 100% Synthétiques - Véhicules Légers",
+      "en": "100% Synthetic Engine Lubricants - Light Vehicles",
+      "ar": "زيوت المحركات الاصطناعية 100% - السيارات الخفيفة"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/03/cropped-logo-sil-trans.png",
+    "specs": [],
+    "description": {
+      "fr": "Antigel-liquide de refroidissement. 100 % organique pur, à diluer dans de l&rsquo;eau déminéralisée.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-moto-factory-10w50",
+    "name": "SIL MOTO FACTORY 10W50",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-MOTO-10W40-1L-Baixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique pour moteurs de compétition. Grande performance à hautes températures.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-moto-factory-10w40",
+    "name": "SIL MOTO FACTORY 10W40",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-MOTO-GEAR-10W30-1L-Baixa-2.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique pour moteurs de compétition. Grande performance à hautes températures.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-moto-factory-5w40",
+    "name": "SIL MOTO FACTORY 5W40",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "5W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-MOTO-10W60-1L-Baixa-2.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique pour moteurs de compétition. Grande performance à hautes températures.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-moto-factory-10w60",
+    "name": "SIL MOTO FACTORY 10W60",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W60",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique pour moteurs de compétition. Grande performance à hautes températures.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-moto-10w30",
+    "name": "SIL MOTO 10W30",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-MOTO-15W50-1L-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de moteurs 4T actuels. Réduit la friction, la température et l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-moto-15w50",
+    "name": "SIL MOTO 15W50",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "15W50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-MOTO-20W50-1L-scaled.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de moteurs 4T actuels. Réduit la friction, la température et l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-moto-20w50",
+    "name": "SIL MOTO 20W50",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "20W50",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-MOTO-10W40-1L-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de moteurs 4T actuels. Réduit la friction, la température et l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-moto-10w40",
+    "name": "SIL MOTO 10W40",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de moteurs 4T actuels. Réduit la friction, la température et l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-2t-mix",
+    "name": "SIL 2T MIX",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Vintage-Sil-Moto-2T-Mix-1L-2.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant pour moteurs 2T de tout type. Réduit la friction, la température et l&rsquo;usure du moteur.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-2t-racing",
+    "name": "SIL 2T RACING",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-KART-Competition-1L-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de moteurs 2T, adapté au prémélange et au graissage séparé.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-kart-competition",
+    "name": "SIL KART COMPETITION",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-HRC-Competition-1L-Baixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique exclusif pour moteurs de compétition fonctionnant à haut régime. Adapté au prémélange et au graissage séparé. Contient de l&rsquo;huile de ricin.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-hrc-2t-competition",
+    "name": "SIL HRC 2T COMPETITION",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant 100 % synthétique pour tous types de moteurs de compétition, y compris à injection. Adapté au prémélange et au graissage séparé. Grande performance et protection du moteur.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": true
+  },
+  {
+    "id": "sil-gear-15wstr",
+    "name": "SIL GEAR 15WSTR",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-MOTO-GEAR-75W-1LBaixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique pour tous types de boîtes à embrayage humide, avec additif au Téflon, spécialement conçu pour le démarrage à froid.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-75w",
+    "name": "SIL GEAR 75W",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "75W",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-GEAR-80W90-GL-5-LS-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant de compétition 100 % synthétique. Pour boîtes de vitesses à embrayage humide. Grâce à sa faible viscosité, il réduit la friction et l&rsquo;usure. Spécialement conçu pour les motos de trial, motocross et enduro.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-80w90-gl-5-2",
+    "name": "SIL GEAR 80W90 GL-5 (2)",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "80W90",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Vintage-SIL-MOTO-GEAR-TRANS-10W40-Baixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant haute performance pour engrenages hypoïdes et transmissions par cardan. Formulé avec des additifs de dernière génération, il prolonge la durée de vie de la transmission.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-10w40-trans",
+    "name": "SIL GEAR 10W40 TRANS",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W40",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-MOTO-GEAR-10W30-1L-Baixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique haute performance pour boîtes de vitesses à embrayage humide. Protection optimale contre l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-gear-10w30-trans",
+    "name": "SIL GEAR 10W30 TRANS",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "10W30",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-POWER-ULTRA-5W40-Baixa-4.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant synthétique haute performance pour boîtes de vitesses à embrayage humide. Protection optimale contre l&rsquo;usure.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-rear-shock-oil-2-5-synt",
+    "name": "SIL REAR SHOCK OIL 2.5 SYNT",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/BidoGran_SIL-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Fluide 100 % synthétique pour suspensions arrière. Grâce à ses bases et additifs de dernière génération, il offre une excellente performance à toute température sur de longues périodes d&rsquo;utilisation.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-filt",
+    "name": "SIL FILT",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-SHINE-SPRAY-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Fluide synthétique visqueux et collant pour imprégner les filtres à air. Capture toutes les particules de poussière et de saleté, les empêchant de pénétrer dans le moteur.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-shine",
+    "name": "SIL SHINE",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/Caprilim-Limpia-cascos-100-scaled.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lustrant silicone pour tous types de plastiques, carénages et garde-boue.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-caprilim",
+    "name": "SIL CAPRILIM",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/CARBURETTOR-CLEANER-scaled.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Mousse conçue pour le nettoyage, la protection et la désinfection de l&rsquo;intérieur du casque.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-limpicarburador",
+    "name": "SIL LIMPICARBURADOR",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/CHAIN-CLEANER-SPRAY-scaled.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Dégraissant-nettoyant pour le nettoyage des carburateurs.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-chain-cleaner",
+    "name": "SIL CHAIN CLEANER",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/SIL-Contact-Cleaner-Spray-Baixa-1.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Nettoyant-dégraissant pour tous types de chaînes. Élimine la saleté, la poussière et les résidus d&rsquo;huile.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-contact-cleaner-2",
+    "name": "SIL CONTACT CLEANER (2)",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/Sil-Multiusos-Spray-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Nettoyant pour freins très efficace. Évaporation rapide. Ne laisse pas de résidu.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-multiuso-10-en-1",
+    "name": "SIL MULTIUSO 10 EN 1",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/Chain-Lube-ARS-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant multi-usages synthétique au PTFE. Idéal pour débloquer, nettoyer et éliminer la saleté. Prévient la corrosion.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-chain-lube-ars-2",
+    "name": "SIL CHAIN LUBE ARS (2)",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/04/Chain-Lube-DRY-Baixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Graisse pour chaînes avec ou sans joints. Grand pouvoir de pénétration, de lubrification et d&rsquo;adhérence. Spéciale pour conditions humides.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-chain-lube-dry",
+    "name": "SIL CHAIN LUBE DRY",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/ANTICONGELANTE-30-5Lxweb-2.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Lubrifiant pour chaînes avec ou sans joints. Grand pouvoir de pénétration, de lubrification et d&rsquo;adhérence. Spécial OFF ROAD.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-anticongelante-30-50",
+    "name": "SIL ANTICONGELANTE 30%-50%",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Liquide de refroidissement haute performance. Indiqué pour tous types de circuits de refroidissement. Protège jusqu&rsquo;à des températures de -18 °C à -35 °C.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-bike-wash-plus",
+    "name": "SIL BIKE WASH Plus",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Détergent prêt à l'emploi pour éliminer la saleté, la boue, la graisse et la poussière de toutes les parties de la moto.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-dsg-2",
+    "name": "SIL DSG (2)",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/GarrafaGENERIC_5LBaixa.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Dégraissant émulsionnable pour le nettoyage et le dégraissage des moteurs. S&rsquo;élimine à l&rsquo;eau.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-prelav-filt",
+    "name": "SIL PRELAV FILT",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-DOT-4-500mlxWeb.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Nettoyant pour tous types de filtres à air. Élimine toute la saleté, la poussière, la boue. Faible agressivité et évaporation rapide.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-dot-4-sil-dot-5-1",
+    "name": "SIL DOT 4-SIL DOT 5.1",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/05/SIL-LHMxWeb.jpg",
+    "specs": [],
+    "description": {
+      "fr": "Fluide synthétique pour systèmes de frein à disque. Point d&rsquo;ébullition élevé.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  },
+  {
+    "id": "sil-lhm-2",
+    "name": "SIL LHM (2)",
+    "main_category": "2-roues",
+    "subcategory_id": "2r_4t_factory",
+    "subcategory_name": {
+      "fr": "Moteur 4 Temps - FACTORY Racing Line",
+      "en": "4-Stroke Engine - FACTORY Racing Line",
+      "ar": "محركات 4 أشواط - خط السباقات FACTORY"
+    },
+    "viscosity": "Spécifique",
+    "image": "https://www.sil-lubricants.com/wp-content/uploads/2026/03/cropped-logo-sil-trans.png",
+    "specs": [],
+    "description": {
+      "fr": "Fluide hydraulique minéral pour systèmes d'embrayage.",
+      "en": "Premium lubricant formulated with high-purity bases and next-generation additives to deliver maximum engine wear protection, optimal cleanliness, and superior fuel economy in demanding operating conditions.",
+      "ar": "زيت عالي الجودة مركب من زيوت أساسية عالية النقاء وإضافات متطورة لتوفير أقصى درجات الحماية ضد التآكل ونظافة مثالية للمحرك واقتصاد فائق في استهلاك الوقود."
+    },
+    "packaging": [
+      "1L",
+      "4L",
+      "5L",
+      "20L",
+      "60L",
+      "208L (Fût)",
+      "1000L (IBC)"
+    ],
+    "applications": {
+      "fr": "Recommandé pour les moteurs modernes exigeant des performances extrêmes et des intervalles de vidange prolongés.",
+      "en": "Recommended for modern engines requiring extreme performance and extended drain intervals.",
+      "ar": "يوصى به للمحركات الحديثة التي تتطلب أداءً فائقاً وفترات تغيير زيت ممتدة."
+    },
+    "featured": false
+  }
+]
